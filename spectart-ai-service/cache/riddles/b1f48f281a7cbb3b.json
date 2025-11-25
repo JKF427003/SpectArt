@@ -1,0 +1,11 @@
+{
+  "riddle": "I swing with secrets, yet never tell,  I call the faithful with a resonant bell.",
+  "answer": "temple bell",
+  "acceptable_answers": [
+    "bell",
+    "gong",
+    "chime",
+    "belfry"
+  ],
+  "hint": "I mark the moments in a sacred space."
+}

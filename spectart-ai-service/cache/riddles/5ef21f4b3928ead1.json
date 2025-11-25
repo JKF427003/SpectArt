@@ -1,0 +1,11 @@
+{
+  "riddle": "With scales that shimmer and tales untold,  \nI guard the secrets of ages old.",
+  "answer": "dragon",
+  "acceptable_answers": [
+    "serpent",
+    "wyvern",
+    "beast",
+    "mythical creature"
+  ],
+  "hint": "Look for myths where fire meets flight."
+}

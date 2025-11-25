@@ -1,0 +1,10 @@
+{
+  "riddle": "I open and close with grace,  \nbreathing air with a soft embrace.",
+  "answer": "folding fan",
+  "acceptable_answers": [
+    "hand fan",
+    "foldable fan",
+    "decorative fan"
+  ],
+  "hint": "I am often a companion to whispers in the dark."
+}

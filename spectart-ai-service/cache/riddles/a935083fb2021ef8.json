@@ -1,0 +1,11 @@
+{
+  "riddle": "In shadows I dance with a face made of wood,  \nA whisper of humor, both dark and good.",
+  "answer": "mask",
+  "acceptable_answers": [
+    "disguise",
+    "facade",
+    "cover",
+    "visor"
+  ],
+  "hint": "I hide your true self while revealing a new role."
+}

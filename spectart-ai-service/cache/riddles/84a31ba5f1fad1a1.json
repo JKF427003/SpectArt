@@ -1,0 +1,11 @@
+{
+  "riddle": "Time once held tight, now slips away,\\nA promise shattered in the cold decay.",
+  "answer": "broken promise",
+  "acceptable_answers": [
+    "shattered oath",
+    "failed vow",
+    "betrayed pledge",
+    "forsaken word"
+  ],
+  "hint": "Consider what is lost when trust is betrayed."
+}

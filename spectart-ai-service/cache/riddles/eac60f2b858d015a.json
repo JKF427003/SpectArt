@@ -1,0 +1,11 @@
+{
+  "riddle": "I hold the echoes of a forgotten tune,  \nIn darkened halls where shadows loom.",
+  "answer": "goblet",
+  "acceptable_answers": [
+    "cup",
+    "chalice",
+    "drinking vessel",
+    "tankard"
+  ],
+  "hint": "Think of a vessel once used for celebration."
+}

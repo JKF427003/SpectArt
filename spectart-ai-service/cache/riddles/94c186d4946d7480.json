@@ -1,0 +1,11 @@
+{
+  "riddle": "I echo through the night,  \nWith rhythms that take flight.",
+  "answer": "traditional drum",
+  "acceptable_answers": [
+    "drum",
+    "percussion instrument",
+    "tambour",
+    "djembe"
+  ],
+  "hint": "Listen closely to the sounds of the past."
+}

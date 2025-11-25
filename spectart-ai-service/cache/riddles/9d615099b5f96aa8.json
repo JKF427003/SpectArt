@@ -1,0 +1,11 @@
+{
+  "riddle": "I stand tall in storms but never get wet, \nA guardian of secrets, my shade is a threat.",
+  "answer": "parasol",
+  "acceptable_answers": [
+    "sunshade",
+    "umbrella",
+    "shade",
+    "canopy"
+  ],
+  "hint": "I block the sun and shelter the soul."
+}

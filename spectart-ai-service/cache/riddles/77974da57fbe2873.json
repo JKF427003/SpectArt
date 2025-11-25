@@ -1,0 +1,11 @@
+{
+  "riddle": "In silence I flow, with grace I glide,\nA whisper of ink, where secrets reside.",
+  "answer": "calligraphy brush",
+  "acceptable_answers": [
+    "writing brush",
+    "pen",
+    "ink brush",
+    "sumi brush"
+  ],
+  "hint": "I bring words to life with a delicate touch."
+}

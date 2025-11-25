@@ -1,0 +1,10 @@
+{
+  "riddle": "I toll without a voice, a call from the past,  \nGuarding ancient secrets, my echoes will last.",
+  "answer": "temple bell",
+  "acceptable_answers": [
+    "sacred bell",
+    "ceremonial bell",
+    "ancient bell"
+  ],
+  "hint": "Listen closely, and you may hear the whispers of history."
+}

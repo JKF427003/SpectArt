@@ -1,0 +1,11 @@
+{
+  "riddle": "I ring without a voice, yet echo through the night. \nIn temples I reside, casting shadows in the light.",
+  "answer": "bell",
+  "acceptable_answers": [
+    "chime",
+    "gong",
+    "toll",
+    "ring"
+  ],
+  "hint": "Listen for the sound that lingers in the air."
+}

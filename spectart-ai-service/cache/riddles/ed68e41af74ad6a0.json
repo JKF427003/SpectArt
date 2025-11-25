@@ -1,0 +1,11 @@
+{
+  "riddle": "I hold warmth in my embrace, but I am not the fire. \nPour me out, and I may quench your desire.",
+  "answer": "teapot",
+  "acceptable_answers": [
+    "kettle",
+    "brew pot",
+    "infuser",
+    "tea maker"
+  ],
+  "hint": "I’m often found alongside cups, yet I’m not for eating."
+}

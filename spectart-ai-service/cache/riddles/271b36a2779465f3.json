@@ -1,0 +1,11 @@
+{
+  "riddle": "I wear a face but have no head, / In shadows I linger, where secrets are spread.",
+  "answer": "mask",
+  "acceptable_answers": [
+    "disguise",
+    "facade",
+    "costume",
+    "cover"
+  ],
+  "hint": "Think of something that can hide the truth."
+}

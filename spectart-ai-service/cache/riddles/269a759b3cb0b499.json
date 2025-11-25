@@ -1,0 +1,11 @@
+{
+  "riddle": "I hide a face, yet show no fear,  A dance of shadows when I draw near.",
+  "answer": "mask",
+  "acceptable_answers": [
+    "disguise",
+    "face cover",
+    "facade",
+    "masquerade"
+  ],
+  "hint": "I often accompany performances, revealing and concealing."
+}

@@ -1,0 +1,11 @@
+{
+  "riddle": "I echo through the ages, yet make no sound,\nIn the heart of battle, my rhythm is found.",
+  "answer": "drum",
+  "acceptable_answers": [
+    "percussion",
+    "timpani",
+    "bongos",
+    "snare"
+  ],
+  "hint": "I hold the beat of ancient warriors."
+}

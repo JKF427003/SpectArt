@@ -1,0 +1,11 @@
+{
+  "riddle": "I shine with promise, yet tarnished I stand,\\nA vessel of secrets, once touched by a hand.",
+  "answer": "silver goblet",
+  "acceptable_answers": [
+    "chalice",
+    "cup",
+    "goblet",
+    "vessel"
+  ],
+  "hint": "Look for something that holds both beauty and betrayal."
+}

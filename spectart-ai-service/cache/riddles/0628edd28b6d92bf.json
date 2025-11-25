@@ -1,0 +1,11 @@
+{
+  "riddle": "I hold words unspoken, in ashes I lie,  \nA vow turned to smoke, beneath the dark sky.",
+  "answer": "burnt promise",
+  "acceptable_answers": [
+    "broken promise",
+    "failed vow",
+    "abandoned pledge",
+    "charred commitment"
+  ],
+  "hint": "Consider what happens to promises when they fade away."
+}

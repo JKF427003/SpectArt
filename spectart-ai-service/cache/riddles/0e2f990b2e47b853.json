@@ -1,0 +1,11 @@
+{
+  "riddle": "In silence I stand, a guardian so bold,  \nMy voice echoes tales of the ages untold.",
+  "answer": "temple bell",
+  "acceptable_answers": [
+    "sacred bell",
+    "ritual bell",
+    "gong",
+    "chime"
+  ],
+  "hint": "Listen closely, for my resonance holds ancient truths."
+}

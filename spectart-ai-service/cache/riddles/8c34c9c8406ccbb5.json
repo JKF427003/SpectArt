@@ -1,0 +1,11 @@
+{
+  "riddle": "I stand and guard with silent grace,  \nA roar of peace in this sacred space.",
+  "answer": "guardian lion",
+  "acceptable_answers": [
+    "stone lion",
+    "foo dog",
+    "shishi",
+    "lion statue"
+  ],
+  "hint": "I watch over the gong's tranquil sound."
+}

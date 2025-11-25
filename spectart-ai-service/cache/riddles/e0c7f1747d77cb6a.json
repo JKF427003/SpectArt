@@ -1,0 +1,10 @@
+{
+  "riddle": "What wears a face yet cannot speak,\nA silent witness to the weak?",
+  "answer": "A mask",
+  "wrong_choices": [
+    "A statue",
+    "A painting",
+    "A mirror"
+  ],
+  "hint": "Once adorned by a noble, now lost to time."
+}

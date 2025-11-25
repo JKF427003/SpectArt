@@ -1,0 +1,11 @@
+{
+  "riddle": "Time once whispered, now it sighs, \nIn a house where silence lies.",
+  "answer": "forgotten timepiece",
+  "acceptable_answers": [
+    "antique watch",
+    "old clock",
+    "rusted timer",
+    "vintage timekeeper"
+  ],
+  "hint": "Look for what marks the passage of time in stillness."
+}

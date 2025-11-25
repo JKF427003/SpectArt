@@ -1,0 +1,11 @@
+{
+  "riddle": "Time stands still, yet I once ticked,  \nA vessel lost, its secrets licked.",
+  "answer": "forgotten timepiece",
+  "acceptable_answers": [
+    "abandoned watch",
+    "rusted clock",
+    "lost timekeeper",
+    "derelict timer"
+  ],
+  "hint": "It measures moments that have faded away."
+}

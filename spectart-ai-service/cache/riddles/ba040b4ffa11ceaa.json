@@ -1,0 +1,10 @@
+{
+  "riddle": "I hide the face, yet reveal the soul,\\nA whisper of culture from ages old.",
+  "answer": "mask",
+  "acceptable_answers": [
+    "disguise",
+    "visor",
+    "facade"
+  ],
+  "hint": "Think of something that covers but also expresses identity."
+}

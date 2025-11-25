@@ -1,0 +1,11 @@
+{
+  "riddle": "I wear a face but do not speak, \nA ghost of promises I keep.",
+  "answer": "broken promise",
+  "acceptable_answers": [
+    "unkept promise",
+    "failed vow",
+    "shattered oath",
+    "abandoned commitment"
+  ],
+  "hint": "Look beyond the surface to find what lies beneath."
+}

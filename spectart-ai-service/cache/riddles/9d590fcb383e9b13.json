@@ -1,0 +1,10 @@
+{
+  "riddle": "Guarding treasures, fierce and bold, \nI am a tale from ages old.",
+  "answer": "dragon",
+  "acceptable_answers": [
+    "wyrm",
+    "serpent",
+    "beast"
+  ],
+  "hint": "My presence often signals a grand entrance."
+}

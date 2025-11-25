@@ -1,0 +1,11 @@
+{
+  "riddle": "I once held the finest wine, now I sit in shadows, barren and unkind. What am I?",
+  "answer": "goblet",
+  "acceptable_answers": [
+    "cup",
+    "chalice",
+    "vessel",
+    "drinking vessel"
+  ],
+  "hint": "Look for what once held treasures, now lost to time."
+}

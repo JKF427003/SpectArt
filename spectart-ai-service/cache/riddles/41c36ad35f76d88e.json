@@ -1,0 +1,11 @@
+{
+  "riddle": "I guard the path both day and night, \nWith tea in hand, I hold the light.",
+  "answer": "guardian lion",
+  "acceptable_answers": [
+    "stone lion",
+    "guardian statue",
+    "lion statue",
+    "foo dog"
+  ],
+  "hint": "I am a sentinel beside a delicate tea set."
+}

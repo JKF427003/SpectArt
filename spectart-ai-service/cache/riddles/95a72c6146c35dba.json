@@ -1,0 +1,11 @@
+{
+  "riddle": "Draped in colors, a tale untold,  \nBeneath the moonlight, a secret unfolds.",
+  "answer": "hanbok dress",
+  "acceptable_answers": [
+    "traditional korean clothing",
+    "korean dress",
+    "hanbok",
+    "dress"
+  ],
+  "hint": "Look for the elegance that dances in the dark."
+}

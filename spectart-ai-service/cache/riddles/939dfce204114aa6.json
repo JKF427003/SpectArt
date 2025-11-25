@@ -1,0 +1,11 @@
+{
+  "riddle": "I hang in silence, waiting for a touch, \nTo echo through the halls, my voice is such.",
+  "answer": "temple gong",
+  "acceptable_answers": [
+    "gong",
+    "bell",
+    "chime",
+    "resonator"
+  ],
+  "hint": "I awaken when struck, revealing hidden sounds."
+}

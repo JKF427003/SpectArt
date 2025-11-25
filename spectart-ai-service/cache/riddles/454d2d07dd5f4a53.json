@@ -1,0 +1,11 @@
+{
+  "riddle": "I’ve lost my face, but still I stare,  \nFrom a house of echoes, I linger in despair.",
+  "answer": "broken mask",
+  "acceptable_answers": [
+    "damaged visage",
+    "shattered face",
+    "fractured mask",
+    "ruined mask"
+  ],
+  "hint": "Look for something that once held a grand identity."
+}

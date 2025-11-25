@@ -1,0 +1,11 @@
+{
+  "riddle": "What stands watch with a fierce gaze, \nGuarding secrets through all days?",
+  "answer": "lion statue",
+  "acceptable_answers": [
+    "guardian lion",
+    "stone lion",
+    "foo dog",
+    "shishi"
+  ],
+  "hint": "This creature is often found at temple entrances."
+}

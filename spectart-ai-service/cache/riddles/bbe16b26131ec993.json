@@ -1,0 +1,11 @@
+{
+  "riddle": "In the temple's light, I stand alone,\nWith a hollow heart, I call a tone.",
+  "answer": "drum",
+  "acceptable_answers": [
+    "timbale",
+    "batter",
+    "percussion instrument",
+    "djembe"
+  ],
+  "hint": "Listen closely to the silence around me."
+}

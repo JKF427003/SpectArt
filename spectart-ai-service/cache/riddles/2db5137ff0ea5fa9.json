@@ -1,0 +1,11 @@
+{
+  "riddle": "I once held treasures bright, now I quietly fade from sight. What am I?",
+  "answer": "goblet",
+  "acceptable_answers": [
+    "cup",
+    "chalice",
+    "vessel",
+    "drinking vessel"
+  ],
+  "hint": "I used to celebrate, now I linger in shadows."
+}

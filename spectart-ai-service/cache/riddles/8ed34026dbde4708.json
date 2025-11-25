@@ -1,0 +1,11 @@
+{
+  "riddle": "I once stood proud, now torn and frayed,  \nA promise whispered, now betrayed.",
+  "answer": "tattered flag",
+  "acceptable_answers": [
+    "torn banner",
+    "worn standard",
+    "ragged ensign",
+    "damaged flag"
+  ],
+  "hint": "Look for something that symbolizes lost loyalty."
+}

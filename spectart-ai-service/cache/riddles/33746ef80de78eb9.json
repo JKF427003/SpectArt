@@ -1,0 +1,11 @@
+{
+  "riddle": "I hang and glow, yet I'm not a flame,  \nWhen the night falls, I call your name.",
+  "answer": "lantern",
+  "acceptable_answers": [
+    "lamp",
+    "light",
+    "beacon",
+    "glow"
+  ],
+  "hint": "I illuminate the dark without a spark."
+}

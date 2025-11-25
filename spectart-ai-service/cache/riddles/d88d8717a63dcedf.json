@@ -1,0 +1,11 @@
+{
+  "riddle": "I ring without a voice, yet call the brave to fight. \nIn sacred halls, I summon spirits of the night.",
+  "answer": "temple gong",
+  "acceptable_answers": [
+    "gong",
+    "sacred bell",
+    "ceremonial drum",
+    "clangor"
+  ],
+  "hint": "Listen closely; the call of the ancient echoes."
+}

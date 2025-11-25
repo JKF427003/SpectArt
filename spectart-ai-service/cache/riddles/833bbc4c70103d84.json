@@ -1,0 +1,11 @@
+{
+  "riddle": "I can move without legs, yet I can run,\nI can be heavy or light, but I’m often fun.",
+  "answer": "water",
+  "acceptable_answers": [
+    "liquid",
+    "aqua",
+    "fluid",
+    "stream"
+  ],
+  "hint": "Look for me where life begins and ends."
+}

@@ -1,0 +1,11 @@
+{
+  "riddle": "In layers I rise, reaching for the sky,  \nA home for the wise, yet lonely am I.",
+  "answer": "pagoda tower",
+  "acceptable_answers": [
+    "temple",
+    "tower",
+    "stupa",
+    "shrine"
+  ],
+  "hint": "Look for wisdom in architectural heights."
+}

@@ -1,0 +1,11 @@
+{
+  "riddle": "I guard the secrets of the past,  \nIn whispers of knowledge, my shadows are cast.",
+  "answer": "stone lion",
+  "acceptable_answers": [
+    "lion statue",
+    "rock lion",
+    "marble lion",
+    "guardian lion"
+  ],
+  "hint": "I stand watch at the threshold of history."
+}

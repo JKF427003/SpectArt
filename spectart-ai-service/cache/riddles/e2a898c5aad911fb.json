@@ -1,0 +1,10 @@
+{
+  "riddle": "I hold warmth in my embrace, yet I shatter with a swift fall. What am I, in this quiet space?",
+  "answer": "teapot",
+  "acceptable_answers": [
+    "kettle",
+    "pitcher",
+    "container"
+  ],
+  "hint": "I pour comfort but can break easily."
+}

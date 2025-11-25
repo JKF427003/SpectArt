@@ -1,0 +1,11 @@
+{
+  "riddle": "In shadows I dwell, with scales made of night,\\nGuarding a treasure, I take to flight.",
+  "answer": "dragon",
+  "acceptable_answers": [
+    "serpent",
+    "wyvern",
+    "fire-breather",
+    "beast"
+  ],
+  "hint": "I’m often found in tales of ancient might."
+}

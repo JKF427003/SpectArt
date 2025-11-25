@@ -1,0 +1,11 @@
+{
+  "riddle": "A vessel of dreams, once bright, now dull,  \nPromises whispered, but none to fulfill.",
+  "answer": "tarnished goblet",
+  "acceptable_answers": [
+    "silver cup",
+    "dull vessel",
+    "metal chalice",
+    "faded drinking cup"
+  ],
+  "hint": "Think of a container that holds more than just liquid."
+}

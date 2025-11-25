@@ -1,0 +1,10 @@
+{
+  "riddle": "I open wide to catch the breeze,  \nIn silence, I dance with gentle ease.",
+  "answer": "folding fan",
+  "acceptable_answers": [
+    "hand fan",
+    "paper fan",
+    "foldable fan"
+  ],
+  "hint": "I bring coolness but am not a breeze."
+}

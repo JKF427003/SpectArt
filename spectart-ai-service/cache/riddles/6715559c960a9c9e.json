@@ -1,0 +1,11 @@
+{
+  "riddle": "I echo in silence, my voice never heard,  \nWith every strong beat, I whisper a word.",
+  "answer": "drum",
+  "acceptable_answers": [
+    "percussion",
+    "beat",
+    "timpani",
+    "bongos"
+  ],
+  "hint": "I am the heartbeat of music, yet I stand alone."
+}

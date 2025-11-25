@@ -1,0 +1,10 @@
+{
+  "riddle": "In silence I weep, a song left unheard,  \nCrafted from crystal, my beauty's deferred.",
+  "answer": "glass violin",
+  "acceptable_answers": [
+    "crystal violin",
+    "fragile instrument",
+    "transparent fiddle"
+  ],
+  "hint": "Listen closely, for the echoes of the past linger."
+}

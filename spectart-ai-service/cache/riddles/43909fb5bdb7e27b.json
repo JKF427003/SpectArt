@@ -1,0 +1,10 @@
+{
+  "riddle": "I wear a face that tells a tale, / In shadows I dance, but I do not prevail.",
+  "answer": "mask",
+  "acceptable_answers": [
+    "disguise",
+    "face covering",
+    "masquerade"
+  ],
+  "hint": "I often hide the truth behind my appearance."
+}

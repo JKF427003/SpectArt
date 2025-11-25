@@ -1,0 +1,10 @@
+{
+  "riddle": "In flames I once held truths so dear,  \nNow turned to ash, I disappear.",
+  "answer": "burnt letter",
+  "acceptable_answers": [
+    "charred message",
+    "scorched note",
+    "incinerated paper"
+  ],
+  "hint": "Think of something that carries words but can be destroyed by fire."
+}

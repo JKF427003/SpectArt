@@ -1,0 +1,11 @@
+{
+  "riddle": "I guard the head yet stand alone,  \nWith tales of battles, I'm often known.",
+  "answer": "warrior helmet",
+  "acceptable_answers": [
+    "helmet",
+    "headgear",
+    "battle helm",
+    "war headpiece"
+  ],
+  "hint": "Look to the skies where shadows loom."
+}

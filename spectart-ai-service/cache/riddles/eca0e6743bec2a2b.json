@@ -1,0 +1,11 @@
+{
+  "riddle": "Faded and torn, I tell a tale,\nOf journeys lost on a ghostly gale.",
+  "answer": "forgotten flag",
+  "acceptable_answers": [
+    "abandoned banner",
+    "tattered ensign",
+    "lost standard",
+    "worn pennant"
+  ],
+  "hint": "Look for something that has seen better days."
+}

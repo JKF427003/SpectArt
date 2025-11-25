@@ -1,0 +1,10 @@
+{
+  "riddle": "In silence I sing, though strings I lack,  \nA ghost of a tune, a memory black.",
+  "answer": "glass violin",
+  "acceptable_answers": [
+    "translucent fiddle",
+    "crystal violin",
+    "shattered tune"
+  ],
+  "hint": "Listen closely; the echoes of a forgotten genius linger."
+}

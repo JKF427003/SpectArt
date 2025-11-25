@@ -1,0 +1,11 @@
+{
+  "riddle": "I glow softly in the night,  \nWith secrets held out of sight.",
+  "answer": "paper lantern",
+  "acceptable_answers": [
+    "lantern",
+    "light",
+    "illumination",
+    "shade"
+  ],
+  "hint": "I brighten up the dark while hiding shadows."
+}

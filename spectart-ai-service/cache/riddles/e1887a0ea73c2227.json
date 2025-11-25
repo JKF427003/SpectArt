@@ -1,0 +1,11 @@
+{
+  "riddle": "I hang in the temple, silent and round,  \nWith a touch, my voice is found.",
+  "answer": "gong",
+  "acceptable_answers": [
+    "bell",
+    "chime",
+    "clang",
+    "instrument"
+  ],
+  "hint": "Listen closely to the echoes of the past."
+}

@@ -1,0 +1,10 @@
+{
+  "riddle": "I ring without a sound, yet echo in the night, \nIn sacred space, I mark the twilight.",
+  "answer": "bell",
+  "acceptable_answers": [
+    "chime",
+    "gong",
+    "toll"
+  ],
+  "hint": "Think of something that signals time in tranquility."
+}

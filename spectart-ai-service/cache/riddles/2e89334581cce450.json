@@ -1,0 +1,10 @@
+{
+  "riddle": "I am a message from the past,\\nBurned but not forgotten, I hold a tune at last.",
+  "answer": "lost composition",
+  "acceptable_answers": [
+    "forgotten melody",
+    "abandoned score",
+    "charred symphony"
+  ],
+  "hint": "Listen closely to the echoes of history."
+}

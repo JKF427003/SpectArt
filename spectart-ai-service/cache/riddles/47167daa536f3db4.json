@@ -1,0 +1,10 @@
+{
+  "riddle": "I wear a face of stone yet show no grief,\\nA journey's end, but never a relief.",
+  "answer": "lost sailor",
+  "acceptable_answers": [
+    "shipwrecked mariner",
+    "abandoned voyager",
+    "missing navigator"
+  ],
+  "hint": "Think of those who sail but never return."
+}

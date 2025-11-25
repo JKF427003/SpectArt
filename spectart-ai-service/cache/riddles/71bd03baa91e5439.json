@@ -1,0 +1,11 @@
+{
+  "riddle": "I once kept time with grace, now silent in this place. \nA lost composer’s tune, forgotten in the gloom.",
+  "answer": "broken timepiece",
+  "acceptable_answers": [
+    "rusted watch",
+    "stopped clock",
+    "timekeeper",
+    "faded timer"
+  ],
+  "hint": "Think of what time leaves behind."
+}

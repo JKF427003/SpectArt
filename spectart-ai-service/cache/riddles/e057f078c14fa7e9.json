@@ -1,0 +1,11 @@
+{
+  "riddle": "In shadowed halls, I gleam once bright,  A promise lost in winter's night.",
+  "answer": "broken oath",
+  "acceptable_answers": [
+    "betrayal",
+    "failed vow",
+    "shattered promise",
+    "unkept word"
+  ],
+  "hint": "Think of what binds and what breaks."
+}

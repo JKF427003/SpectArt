@@ -1,0 +1,11 @@
+{
+  "riddle": "I speak without a voice, yet sound does arise, \nIn battles of old, I echo their cries.",
+  "answer": "gong",
+  "acceptable_answers": [
+    "bell",
+    "chime",
+    "resonator",
+    "clangor"
+  ],
+  "hint": "I resonate with history and call to the brave."
+}

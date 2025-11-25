@@ -1,0 +1,11 @@
+{
+  "riddle": "In darkness I flicker, a glow from afar,  \nA beacon of warmth, under the stars.",
+  "answer": "paper lantern",
+  "acceptable_answers": [
+    "lantern",
+    "glow lantern",
+    "light source",
+    "decorative lantern"
+  ],
+  "hint": "Look for a source of light that can float in the night."
+}

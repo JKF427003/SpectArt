@@ -1,0 +1,11 @@
+{
+  "riddle": "I echo in the night, a call to the divine,  \nIn temples I reside, where spirits intertwine.",
+  "answer": "gong",
+  "acceptable_answers": [
+    "bell",
+    "chime",
+    "resonator",
+    "toll"
+  ],
+  "hint": "I am struck to signal rituals and gatherings."
+}

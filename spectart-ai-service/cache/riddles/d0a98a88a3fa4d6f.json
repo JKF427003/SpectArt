@@ -1,0 +1,11 @@
+{
+  "riddle": "In silence it calls, a sound from the deep, \nAwakening echoes where shadows creep.",
+  "answer": "bell",
+  "acceptable_answers": [
+    "gong",
+    "chime",
+    "toll",
+    "ring"
+  ],
+  "hint": "Listen closely when the night falls."
+}

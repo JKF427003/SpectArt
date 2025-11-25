@@ -1,0 +1,11 @@
+{
+  "riddle": "I hold warmth within, sip from my grace,  \nAn ornate shelter for your quiet space.",
+  "answer": "teapot",
+  "acceptable_answers": [
+    "kettle",
+    "brew pot",
+    "tea vessel",
+    "infuser"
+  ],
+  "hint": "Think of a vessel that brews comfort and calm."
+}

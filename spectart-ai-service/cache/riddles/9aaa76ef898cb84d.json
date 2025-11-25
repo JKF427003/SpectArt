@@ -1,0 +1,10 @@
+{
+  "riddle": "I hold the grains of life, yet I am not alive,\\ In pairs I serve, where flavors thrive.",
+  "answer": "rice bowl and chopsticks",
+  "acceptable_answers": [
+    "bowl and sticks",
+    "chopsticks and rice",
+    "rice and utensils"
+  ],
+  "hint": "Look closely at what sustains a meal."
+}

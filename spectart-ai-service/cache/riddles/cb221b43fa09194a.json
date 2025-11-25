@@ -1,0 +1,11 @@
+{
+  "riddle": "I illuminate the night, yet I'm often left behind, \nA flicker of light, in shadows confined.",
+  "answer": "lantern",
+  "acceptable_answers": [
+    "light source",
+    "lamp",
+    "beacon",
+    "torch"
+  ],
+  "hint": "I bring light but am rarely used alone."
+}

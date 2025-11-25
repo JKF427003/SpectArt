@@ -1,0 +1,10 @@
+{
+  "riddle": "I rest atop a sacred space,\nWith offerings for the gods I grace.",
+  "answer": "temple roof",
+  "acceptable_answers": [
+    "shrine top",
+    "sacred cover",
+    "roof of worship"
+  ],
+  "hint": "Look above where reverence meets the sky."
+}

@@ -1,0 +1,11 @@
+{
+  "riddle": "I hold the echoes of a tune, once sweet, now gone too soon.  \nIn my depths, a ghostly sip, of a maestro's last, forgotten trip.",
+  "answer": "silver goblet",
+  "acceptable_answers": [
+    "chalice",
+    "cup",
+    "goblet",
+    "vessel"
+  ],
+  "hint": "Look for the remnants of a musical past."
+}

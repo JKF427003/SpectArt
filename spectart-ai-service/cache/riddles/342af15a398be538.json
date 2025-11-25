@@ -1,0 +1,11 @@
+{
+  "riddle": "In shadows I dance with a flicker of light, \nMy glow reveals secrets hidden from sight.",
+  "answer": "lantern",
+  "acceptable_answers": [
+    "light source",
+    "illumination",
+    "torch",
+    "beacon"
+  ],
+  "hint": "I can brighten the dark and unveil hidden forms."
+}

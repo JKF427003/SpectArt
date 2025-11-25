@@ -1,0 +1,11 @@
+{
+  "riddle": "Torn and faded, I fly without wings, \nA tale of a journey, lost in dark things.",
+  "answer": "lost flag",
+  "acceptable_answers": [
+    "tattered flag",
+    "worn banner",
+    "forgotten standard",
+    "damaged ensign"
+  ],
+  "hint": "I symbolize a journey that ended in shadows."
+}

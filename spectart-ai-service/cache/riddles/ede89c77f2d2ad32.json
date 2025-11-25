@@ -1,0 +1,11 @@
+{
+  "riddle": "In layers I rise, a drink I hold tight, \nSip from my spout, in the dim, soft light.",
+  "answer": "teapot",
+  "acceptable_answers": [
+    "tea vessel",
+    "brew pot",
+    "infuser",
+    "teaming pot"
+  ],
+  "hint": "I preside over warm ceremonies and secrets in the dark."
+}

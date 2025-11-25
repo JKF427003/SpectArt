@@ -1,0 +1,11 @@
+{
+  "riddle": "I shelter you from sun's embrace,\\  In vibrant hues, I hold your grace.",
+  "answer": "parasol",
+  "acceptable_answers": [
+    "sunshade",
+    "umbrella",
+    "shade",
+    "canopy"
+  ],
+  "hint": "I keep you cool, yet I'm not a home."
+}

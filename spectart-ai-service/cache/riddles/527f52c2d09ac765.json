@@ -1,0 +1,11 @@
+{
+  "riddle": "I rise in the air with a soft, gentle grip,  \nTo shield from the sun, I take on a trip.",
+  "answer": "parasol",
+  "acceptable_answers": [
+    "sunshade",
+    "umbrella",
+    "canopy",
+    "shade"
+  ],
+  "hint": "Ancient scrolls often seek shelter from the sun."
+}

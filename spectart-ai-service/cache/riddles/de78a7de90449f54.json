@@ -1,0 +1,10 @@
+{
+  "riddle": "I once told time with a ticking chime,\\ But now I hold only echoes of grime.",
+  "answer": "broken timepiece",
+  "acceptable_answers": [
+    "damaged clock",
+    "shattered watch",
+    "rusty timer"
+  ],
+  "hint": "Time has not treated me kindly."
+}

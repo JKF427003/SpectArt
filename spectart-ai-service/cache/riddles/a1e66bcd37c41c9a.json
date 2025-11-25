@@ -1,0 +1,11 @@
+{
+  "riddle": "I glow in the night, a warm, soft light, \nYet hide my true face from all in sight.",
+  "answer": "lantern",
+  "acceptable_answers": [
+    "light",
+    "lamp",
+    "glow",
+    "beacon"
+  ],
+  "hint": "I illuminate the dark while concealing my origins."
+}

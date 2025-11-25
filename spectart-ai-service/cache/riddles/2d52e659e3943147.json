@@ -1,0 +1,11 @@
+{
+  "riddle": "I once flew high, now I lie low,  \nTattered wings of a tale long ago.",
+  "answer": "forgotten flag",
+  "acceptable_answers": [
+    "battered standard",
+    "worn ensign",
+    "old banner",
+    "torn pennant"
+  ],
+  "hint": "Consider the remnants of a lost legacy."
+}

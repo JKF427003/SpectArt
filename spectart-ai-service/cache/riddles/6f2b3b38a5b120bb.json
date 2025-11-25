@@ -1,0 +1,11 @@
+{
+  "riddle": "I open wide to welcome night,  \nYet guard the realm from morning light.",
+  "answer": "gate",
+  "acceptable_answers": [
+    "door",
+    "entrance",
+    "portal",
+    "threshold"
+  ],
+  "hint": "I stand between the outside world and what lies within."
+}

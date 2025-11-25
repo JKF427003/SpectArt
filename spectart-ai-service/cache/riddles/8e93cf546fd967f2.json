@@ -1,0 +1,11 @@
+{
+  "riddle": "In shadows I dwell, my scales bright and bold,\\ I guard ancient treasures, both silver and gold.",
+  "answer": "dragon",
+  "acceptable_answers": [
+    "wyvern",
+    "serpent",
+    "beast",
+    "firebreather"
+  ],
+  "hint": "I am often found in tales of old, breathing fire and guarding gold."
+}

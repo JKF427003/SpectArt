@@ -1,0 +1,11 @@
+{
+  "riddle": "A melody of silence, trapped in sight, \nA vow unfulfilled, lost to the night.",
+  "answer": "broken promise",
+  "acceptable_answers": [
+    "unfulfilled vow",
+    "shattered pledge",
+    "failed commitment",
+    "broken vow"
+  ],
+  "hint": "It's something that was meant to be, but never was."
+}

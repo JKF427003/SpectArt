@@ -1,0 +1,11 @@
+{
+  "riddle": "I toll in silence, a guardian's call, \nEchoing whispers where shadows fall.",
+  "answer": "temple bell",
+  "acceptable_answers": [
+    "sacred bell",
+    "ceremonial bell",
+    "sacred chime",
+    "buddhist bell"
+  ],
+  "hint": "Listen closely, for I summon the unseen."
+}

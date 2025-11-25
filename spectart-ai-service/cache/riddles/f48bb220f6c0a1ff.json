@@ -1,0 +1,11 @@
+{
+  "riddle": "Worn and torn, I once stood proud,  \nNow I whisper of a family lost in the crowd.",
+  "answer": "tattered flag",
+  "acceptable_answers": [
+    "frayed banner",
+    "worn emblem",
+    "torn standard",
+    "damaged flag"
+  ],
+  "hint": "I symbolize loyalty, now faded with time."
+}

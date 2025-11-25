@@ -1,0 +1,11 @@
+{
+  "riddle": "I hang in silence, yet I sing, \nStrike me gently, and hear me ring.",
+  "answer": "gong",
+  "acceptable_answers": [
+    "bell",
+    "chime",
+    "toll",
+    "resonator"
+  ],
+  "hint": "Listen closely to the echoes of the night."
+}

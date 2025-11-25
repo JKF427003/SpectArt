@@ -1,0 +1,11 @@
+{
+  "riddle": "Tattered and torn, I once flew high,\nNow lost in shadows, I whisper goodbye.",
+  "answer": "flag",
+  "acceptable_answers": [
+    "banner",
+    "standard",
+    "ensign",
+    "pennant"
+  ],
+  "hint": "I used to symbolize unity."
+}

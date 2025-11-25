@@ -1,0 +1,10 @@
+{
+  "riddle": "What wears a face yet holds no soul,  \nA visage of stories untold?",
+  "answer": "mask",
+  "acceptable_answers": [
+    "face covering",
+    "disguise",
+    "masquerade"
+  ],
+  "hint": "It reflects more than just appearances."
+}

@@ -1,0 +1,11 @@
+{
+  "riddle": "I rise to touch the sky, yet my base is hidden low. What am I that stands alone, where whispers of the ancients flow?",
+  "answer": "pagoda",
+  "acceptable_answers": [
+    "tower",
+    "temple",
+    "edifice",
+    "roof"
+  ],
+  "hint": "Look for something that points upwards in sacred spaces."
+}

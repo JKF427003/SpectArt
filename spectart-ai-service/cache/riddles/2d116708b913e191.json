@@ -1,0 +1,11 @@
+{
+  "riddle": "I flicker and glow, yet I do not burn,  \nIn shadows I whisper, for secrets I yearn.",
+  "answer": "lantern",
+  "acceptable_answers": [
+    "light",
+    "lamp",
+    "beacon",
+    "torch"
+  ],
+  "hint": "Look for the source that illuminates the dark."
+}

@@ -1,0 +1,11 @@
+{
+  "riddle": "In the night, I light your way,  \nWith a glowing heart, I chase shadows away.",
+  "answer": "paper lantern",
+  "acceptable_answers": [
+    "light source",
+    "lantern",
+    "illumination",
+    "glow"
+  ],
+  "hint": "I am often found hanging in festive settings."
+}

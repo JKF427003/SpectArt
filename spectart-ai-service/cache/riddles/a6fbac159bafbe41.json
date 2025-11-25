@@ -1,0 +1,11 @@
+{
+  "riddle": "I guard the past, yet stand still,  \nIn silence, I echo a warrior's will.",
+  "answer": "gate",
+  "acceptable_answers": [
+    "portal",
+    "entrance",
+    "doorway",
+    "threshold"
+  ],
+  "hint": "Think of what stands between worlds."
+}

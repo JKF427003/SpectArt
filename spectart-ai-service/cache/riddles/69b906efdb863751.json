@@ -1,0 +1,11 @@
+{
+  "riddle": "I shield the brave, yet rest in still air,  \nWhat am I, my form a warrior's flair?",
+  "answer": "helmet",
+  "acceptable_answers": [
+    "headgear",
+    "helm",
+    "armor",
+    "protection"
+  ],
+  "hint": "Think of what guards the head in battle."
+}

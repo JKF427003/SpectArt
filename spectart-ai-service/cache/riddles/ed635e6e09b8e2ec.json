@@ -1,0 +1,11 @@
+{
+  "riddle": "I once marked time with grace, now I stand still in space. Who am I that holds moments lost in embrace?",
+  "answer": "pocket watch",
+  "acceptable_answers": [
+    "timepiece",
+    "watch",
+    "chronometer",
+    "timer"
+  ],
+  "hint": "I once belonged to a composer who vanished."
+}

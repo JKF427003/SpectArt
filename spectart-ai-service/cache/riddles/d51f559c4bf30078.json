@@ -1,0 +1,11 @@
+{
+  "riddle": "I count the moments, yet freeze them too,\\nIn shadows of time, I once belonged to you.",
+  "answer": "rusted pocket watch",
+  "acceptable_answers": [
+    "timepiece",
+    "watch",
+    "chronometer",
+    "horologe"
+  ],
+  "hint": "I once ticked in a grand home now lost to time."
+}

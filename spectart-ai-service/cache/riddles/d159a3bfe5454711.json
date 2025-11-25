@@ -1,0 +1,11 @@
+{
+  "riddle": "Guarding the entrance, I stand proud and tall,  \nA stone lion's gaze, watching over all.",
+  "answer": "lion statue",
+  "acceptable_answers": [
+    "stone lion",
+    "guardian lion",
+    "foo dog",
+    "shishi"
+  ],
+  "hint": "I am often found where spirits and stone meet."
+}

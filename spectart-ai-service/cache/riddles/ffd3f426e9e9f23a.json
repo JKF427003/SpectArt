@@ -1,0 +1,11 @@
+{
+  "riddle": "I swing and clang without a hand,\\nIn silence, I make music grand.",
+  "answer": "temple gong",
+  "acceptable_answers": [
+    "gong",
+    "bell",
+    "chime",
+    "musical instrument"
+  ],
+  "hint": "Listen closely, my voice echoes through the halls."
+}

@@ -1,0 +1,11 @@
+{
+  "riddle": "I stand tall and wide, a guard of the night, \nTo secrets within, I keep them out of sight.",
+  "answer": "palace gate",
+  "acceptable_answers": [
+    "gateway",
+    "entrance",
+    "doorway",
+    "portal"
+  ],
+  "hint": "I protect what lies behind me, yet beckon the curious."
+}

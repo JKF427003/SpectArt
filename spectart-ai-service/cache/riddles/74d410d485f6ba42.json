@@ -1,0 +1,11 @@
+{
+  "riddle": "I shelter you from sun's bright glare,  \nWith colors bold, I'm light as air.",
+  "answer": "parasol",
+  "acceptable_answers": [
+    "umbrella",
+    "shade",
+    "canopy",
+    "sunshade"
+  ],
+  "hint": "Think of a delicate covering that dances in the breeze."
+}

@@ -1,0 +1,11 @@
+{
+  "riddle": "I summon the spirits, with a booming sound,  \nIn ancient halls, my echoes resound.",
+  "answer": "gong",
+  "acceptable_answers": [
+    "bell",
+    "plate",
+    "chime",
+    "percussion"
+  ],
+  "hint": "I am often struck to mark a special occasion."
+}

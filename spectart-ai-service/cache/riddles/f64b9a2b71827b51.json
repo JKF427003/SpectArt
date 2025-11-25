@@ -1,0 +1,11 @@
+{
+  "riddle": "I hold the face of one who’s lost,  \nA journey taken, but at what cost?",
+  "answer": "ghost ship",
+  "acceptable_answers": [
+    "phantom vessel",
+    "lost ship",
+    "haunted ship",
+    "specter ship"
+  ],
+  "hint": "Think of a vessel that sails no more."
+}

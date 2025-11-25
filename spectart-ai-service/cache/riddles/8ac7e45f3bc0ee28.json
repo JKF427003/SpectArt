@@ -1,0 +1,11 @@
+{
+  "riddle": "An oath was whispered, now lost in the frost,  \nA face that’s shattered, but what is the cost?",
+  "answer": "broken promise",
+  "acceptable_answers": [
+    "betrayal",
+    "failed vow",
+    "broken vow",
+    "false oath"
+  ],
+  "hint": "Look for what remains when trust is shattered."
+}

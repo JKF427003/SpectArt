@@ -1,0 +1,11 @@
+{
+  "riddle": "With watchful eyes, I stand so tall, \nGuarding secrets from dusk till dawn's call.",
+  "answer": "lion statue",
+  "acceptable_answers": [
+    "guardian lion",
+    "stone lion",
+    "temple lion",
+    "foo dog"
+  ],
+  "hint": "I protect more than just the meal beside me."
+}

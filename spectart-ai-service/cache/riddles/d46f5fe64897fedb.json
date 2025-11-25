@@ -1,0 +1,11 @@
+{
+  "riddle": "I toll without a voice, yet call with great might, \nWithin a temple's shadow, I echo through the night.",
+  "answer": "bell",
+  "acceptable_answers": [
+    "chime",
+    "gong",
+    "toll",
+    "ring"
+  ],
+  "hint": "Listen closely to the silence that surrounds me."
+}

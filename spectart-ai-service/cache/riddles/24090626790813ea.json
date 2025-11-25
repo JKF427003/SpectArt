@@ -1,0 +1,11 @@
+{
+  "riddle": "I hang above, silent and still,\\nA gentle touch brings forth the thrill.",
+  "answer": "temple bell",
+  "acceptable_answers": [
+    "gong",
+    "bell",
+    "chime",
+    "ring"
+  ],
+  "hint": "I await a stroke to share my sound."
+}

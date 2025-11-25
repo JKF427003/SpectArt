@@ -1,0 +1,11 @@
+{
+  "riddle": "With scales of stone and eyes that gleam,  I guard the tales of an ancient dream.",
+  "answer": "dragon statue",
+  "acceptable_answers": [
+    "dragon figure",
+    "stone dragon",
+    "dragon sculpture",
+    "mythical beast"
+  ],
+  "hint": "Look for the guardian of forgotten stories."
+}

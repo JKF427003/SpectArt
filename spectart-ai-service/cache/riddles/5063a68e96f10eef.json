@@ -1,0 +1,11 @@
+{
+  "riddle": "I hold the rhythm of the night, \nWith every thump, I join the fright.",
+  "answer": "large drum",
+  "acceptable_answers": [
+    "bass drum",
+    "kettle drum",
+    "percussion instrument",
+    "timpani"
+  ],
+  "hint": "Listen closely, for I echo the shadows."
+}

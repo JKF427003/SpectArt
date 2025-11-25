@@ -1,0 +1,11 @@
+{
+  "riddle": "I guard the skies and watch the earth,  \nWith scales that shimmer, I echo my worth.",
+  "answer": "dragon",
+  "acceptable_answers": [
+    "serpent",
+    "wyrm",
+    "fire-breather",
+    "mythical beast"
+  ],
+  "hint": "Look among legends where fire meets the sky."
+}

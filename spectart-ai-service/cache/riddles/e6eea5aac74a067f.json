@@ -1,0 +1,11 @@
+{
+  "riddle": "I gleam with grace, yet fade with time,  \nA vessel lost, once filled with rhyme.",
+  "answer": "forgotten treasure",
+  "acceptable_answers": [
+    "lost riches",
+    "abandoned bounty",
+    "vanished wealth",
+    "neglected trove"
+  ],
+  "hint": "What was once cherished is now a ghost of memory."
+}

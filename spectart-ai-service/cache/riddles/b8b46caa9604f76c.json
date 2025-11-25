@@ -1,0 +1,10 @@
+{
+  "riddle": "Time stands still in shadows deep,  \nA promise lost, in silence weep.",
+  "answer": "forgotten timepiece",
+  "acceptable_answers": [
+    "obsolete watch",
+    "rusty clock",
+    "neglected timer"
+  ],
+  "hint": "It holds memories of a vow unkept."
+}

@@ -1,0 +1,10 @@
+{
+  "riddle": "In a world of light, I hold the grain,  \nWith two companions, I serve with no pain.",
+  "answer": "rice bowl",
+  "acceptable_answers": [
+    "grain holder",
+    "food vessel",
+    "rice dish"
+  ],
+  "hint": "Look for the vessel that gathers sustenance."
+}

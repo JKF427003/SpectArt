@@ -1,0 +1,11 @@
+{
+  "riddle": "I shield you from the blaze, \nYet dance with the wind's ways.",
+  "answer": "parasol",
+  "acceptable_answers": [
+    "sunshade",
+    "umbrella",
+    "canopy",
+    "shade"
+  ],
+  "hint": "Look up to find shelter from the sun."
+}

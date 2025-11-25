@@ -1,0 +1,11 @@
+{
+  "riddle": "Guarding treasures with fiery breath,  \nIn shadows I rest, defying death.",
+  "answer": "dragon",
+  "acceptable_answers": [
+    "serpent",
+    "beast",
+    "wyvern",
+    "mythical creature"
+  ],
+  "hint": "I am often found at the entrance of legends."
+}

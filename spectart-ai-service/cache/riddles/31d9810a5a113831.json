@@ -1,0 +1,11 @@
+{
+  "riddle": "Time once held in hand, now lost in rust,  \nA journey stopped, in silence it must.",
+  "answer": "pocket watch",
+  "acceptable_answers": [
+    "timepiece",
+    "watch",
+    "chronometer",
+    "horologe"
+  ],
+  "hint": "It once measured moments, now it measures memories."
+}

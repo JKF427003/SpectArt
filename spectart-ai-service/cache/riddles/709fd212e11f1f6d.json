@@ -1,0 +1,11 @@
+{
+  "riddle": "Once bright, now worn and torn,  \nI tell tales of glory, now forlorn.",
+  "answer": "tattered flag",
+  "acceptable_answers": [
+    "battle standard",
+    "worn banner",
+    "damaged flag",
+    "frayed cloth"
+  ],
+  "hint": "What once waved high is now a whisper of the past."
+}

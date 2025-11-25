@@ -1,0 +1,11 @@
+{
+  "riddle": "I once told time in a crisp winter's night,\\ Lost my hands in shadows, now a fading light.",
+  "answer": "rusted pocket watch",
+  "acceptable_answers": [
+    "timepiece",
+    "watch",
+    "clock",
+    "timer"
+  ],
+  "hint": "Look for something that no longer keeps its promise."
+}

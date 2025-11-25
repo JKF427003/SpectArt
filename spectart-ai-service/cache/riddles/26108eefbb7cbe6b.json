@@ -1,0 +1,10 @@
+{
+  "riddle": "Silent sentinel in the night,  \nWith a gaze that guards, a watchful sight.",
+  "answer": "lion statue",
+  "acceptable_answers": [
+    "guardian lion",
+    "stone lion",
+    "lion guardian"
+  ],
+  "hint": "Listen for the echo of a temple bell nearby."
+}

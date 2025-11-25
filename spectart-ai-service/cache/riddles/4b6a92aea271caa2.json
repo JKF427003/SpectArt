@@ -1,0 +1,11 @@
+{
+  "riddle": "I echo the songs of the past,  \nWith a beat that will forever last.",
+  "answer": "drum",
+  "acceptable_answers": [
+    "percussion instrument",
+    "timbrel",
+    "bongos",
+    "djembe"
+  ],
+  "hint": "I carry the rhythm of ancient tales."
+}

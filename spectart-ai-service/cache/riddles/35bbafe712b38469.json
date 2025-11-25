@@ -1,0 +1,11 @@
+{
+  "riddle": "I unfold with a whisper, my secrets concealed,  \nIn the presence of warriors, my breath is revealed.",
+  "answer": "folding fan",
+  "acceptable_answers": [
+    "hand fan",
+    "foldable fan",
+    "decorative fan",
+    "paper fan"
+  ],
+  "hint": "I reveal my charm when gently opened."
+}

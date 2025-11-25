@@ -1,0 +1,11 @@
+{
+  "riddle": "I toll without a mouth, my sound a ghostly call,  \nWhat am I that thrums in silence, echoing through the hall?",
+  "answer": "bell",
+  "acceptable_answers": [
+    "chime",
+    "gong",
+    "toll",
+    "ring"
+  ],
+  "hint": "I announce the passing of time in a haunting way."
+}

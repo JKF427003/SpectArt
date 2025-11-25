@@ -1,0 +1,11 @@
+{
+  "riddle": "In shadows it rises, a peak that glows,\nWith layers of grace, where the spirit flows.",
+  "answer": "pagoda",
+  "acceptable_answers": [
+    "temple",
+    "tower",
+    "shrine",
+    "stupa"
+  ],
+  "hint": "Look for a structure that reaches for the sky."
+}

@@ -1,0 +1,12 @@
+{
+  "riddle": "In shadows I flicker, a delicate glow,  \nThough not quite alive, I dance as I show.",
+  "answer": "paper lantern",
+  "acceptable_answers": [
+    "lantern",
+    "light",
+    "illumination",
+    "torch",
+    "glow"
+  ],
+  "hint": "I brighten the dark without a heartbeat."
+}

@@ -1,0 +1,10 @@
+{
+  "riddle": "I hold words that once were bright,  \nNow in darkness, I lose my light.",
+  "answer": "burnt letter",
+  "acceptable_answers": [
+    "charred note",
+    "scorched paper",
+    "blackened message"
+  ],
+  "hint": "What once conveyed hope now carries only ash."
+}

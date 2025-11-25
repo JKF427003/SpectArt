@@ -1,0 +1,11 @@
+{
+  "riddle": "I dance with the wind, yet I am still,\nIn whispers I speak, a secret to thrill.",
+  "answer": "folding fan",
+  "acceptable_answers": [
+    "hand fan",
+    "portable fan",
+    "decorative fan",
+    "paper fan"
+  ],
+  "hint": "I conceal my beauty when not in use."
+}

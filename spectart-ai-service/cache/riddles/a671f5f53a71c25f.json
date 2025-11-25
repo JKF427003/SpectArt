@@ -1,0 +1,11 @@
+{
+  "riddle": "Once a guardian of the land, now a silent stand,  \nWhat wears a shell but never takes a hand?",
+  "answer": "samurai armor",
+  "acceptable_answers": [
+    "warrior suit",
+    "battle gear",
+    "armored attire",
+    "suit of armor"
+  ],
+  "hint": "This relic once protected a noble fighter."
+}

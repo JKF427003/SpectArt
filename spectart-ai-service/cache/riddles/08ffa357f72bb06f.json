@@ -1,0 +1,10 @@
+{
+  "riddle": "I stand guard, silent and still,  \nIn front of the shrine, I fulfill.",
+  "answer": "stone lion",
+  "acceptable_answers": [
+    "lion statue",
+    "guardian lion",
+    "temple lion"
+  ],
+  "hint": "I am a protector made of stone."
+}

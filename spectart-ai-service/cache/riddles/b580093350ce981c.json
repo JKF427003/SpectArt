@@ -1,0 +1,11 @@
+{
+  "riddle": "With a dragon's breath, I serve warmth and glee,  \nSip from my vessel, set your worries free.",
+  "answer": "tea",
+  "acceptable_answers": [
+    "brew",
+    "infusion",
+    "cup",
+    "beverage"
+  ],
+  "hint": "Look to the vessel that calms the mind."
+}

@@ -1,0 +1,10 @@
+{
+  "riddle": "In silence I stand, a guardian of stone,  \nWith a warrior's helm, but I’m not flesh and bone.",
+  "answer": "lion statue",
+  "acceptable_answers": [
+    "guardian lion",
+    "stone lion",
+    "lion guardian"
+  ],
+  "hint": "I protect the entrance with a fierce gaze."
+}

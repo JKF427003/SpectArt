@@ -1,0 +1,11 @@
+{
+  "riddle": "In shadows I gleam, once bright and bold,\\ A promise unkept, now a tale retold.",
+  "answer": "silver goblet",
+  "acceptable_answers": [
+    "silver cup",
+    "goblet",
+    "chalice",
+    "drinking vessel"
+  ],
+  "hint": "Look for something that holds both beauty and betrayal."
+}

@@ -1,0 +1,11 @@
+{
+  "riddle": "I echo with rhythm, yet stand still in time. \nUnder my cover, the world can chime.",
+  "answer": "drum",
+  "acceptable_answers": [
+    "percussion instrument",
+    "timpani",
+    "bongo",
+    "djembe"
+  ],
+  "hint": "Think of something that brings the beat without moving on its own."
+}

@@ -1,0 +1,10 @@
+{
+  "riddle": "I can flicker and glow, yet I can't feel a thing. My dance in the dark is a haunting fling.",
+  "answer": "candle flame",
+  "acceptable_answers": [
+    "light",
+    "flame",
+    "wick"
+  ],
+  "hint": "I provide light but am consumed in the process."
+}

@@ -1,0 +1,10 @@
+{
+  "riddle": "What tells a tale of loss and plight,  \nYet never makes it back from night?",
+  "answer": "lost letter",
+  "acceptable_answers": [
+    "missing letter",
+    "vanished message",
+    "forgotten note"
+  ],
+  "hint": "Consider the fate of a message lost at sea."
+}

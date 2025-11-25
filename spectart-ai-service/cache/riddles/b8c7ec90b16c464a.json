@@ -1,0 +1,11 @@
+{
+  "riddle": "In sun's embrace, I shield the way, \nWith dragon's watch, I hold the day.",
+  "answer": "parasol",
+  "acceptable_answers": [
+    "umbrella",
+    "shade",
+    "canopy",
+    "sunshade"
+  ],
+  "hint": "Look above for protection from the light."
+}

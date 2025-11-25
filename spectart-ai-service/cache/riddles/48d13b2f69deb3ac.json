@@ -1,0 +1,11 @@
+{
+  "riddle": "I hold the echoes of tunes long gone,\\nIn my depths, a maestro's spirit may spawn.",
+  "answer": "goblet",
+  "acceptable_answers": [
+    "cup",
+    "chalice",
+    "vessel",
+    "drinking vessel"
+  ],
+  "hint": "Think of a container that once celebrated a toast."
+}

@@ -1,0 +1,10 @@
+{
+  "riddle": "I open wide to catch a breeze,  \nWith colors bright that aim to please.",
+  "answer": "folding fan",
+  "acceptable_answers": [
+    "hand fan",
+    "paper fan",
+    "foldable fan"
+  ],
+  "hint": "I bring comfort with a simple flick."
+}

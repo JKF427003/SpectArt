@@ -1,0 +1,11 @@
+{
+  "riddle": "In my embrace, warmth does dwell,  \nA sip of calm, my secrets tell.",
+  "answer": "teapot",
+  "acceptable_answers": [
+    "tea pot",
+    "brew vessel",
+    "infuser",
+    "tea maker"
+  ],
+  "hint": "I hold the elixir that soothes the soul."
+}

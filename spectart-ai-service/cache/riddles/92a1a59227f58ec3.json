@@ -1,0 +1,10 @@
+{
+  "riddle": "In darkness I glow, colors so bright,\\nI dance with the wind, a delicate sight.",
+  "answer": "paper lantern",
+  "acceptable_answers": [
+    "lantern",
+    "paper light",
+    "hanging light"
+  ],
+  "hint": "I brighten celebrations and float in the night."
+}

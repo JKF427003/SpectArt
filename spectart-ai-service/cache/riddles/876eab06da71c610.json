@@ -1,0 +1,11 @@
+{
+  "riddle": "In silence I burn, a promise betrayed,  \nIn shadows I linger, where trust has decayed.",
+  "answer": "a burned letter",
+  "acceptable_answers": [
+    "charred note",
+    "scorched message",
+    "cinder document",
+    "ash-enveloped letter"
+  ],
+  "hint": "Think of something that holds secrets lost to flames."
+}

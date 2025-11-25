@@ -1,0 +1,11 @@
+{
+  "riddle": "I open with a flick, yet I carry no sound, / In whispers of air, my secrets abound.",
+  "answer": "folding fan",
+  "acceptable_answers": [
+    "hand fan",
+    "foldable fan",
+    "decorative fan",
+    "paper fan"
+  ],
+  "hint": "I may conceal and reveal, much like a sentinel's gaze."
+}

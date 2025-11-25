@@ -1,0 +1,12 @@
+{
+  "riddle": "I open wide to shield the sun,  \nYet in the rain, I’m often spun.",
+  "answer": "parasol",
+  "acceptable_answers": [
+    "umbrella",
+    "sunshade",
+    "canopy",
+    "shade",
+    "shelter"
+  ],
+  "hint": "I’m often found where comfort meets the elements."
+}

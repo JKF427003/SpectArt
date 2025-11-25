@@ -1,0 +1,11 @@
+{
+  "riddle": "I sing without a voice, lost at sea,\\nA journey eternal, but never free.",
+  "answer": "ghost ship",
+  "acceptable_answers": [
+    "phantom vessel",
+    "haunted ship",
+    "spirit boat",
+    "lost ship"
+  ],
+  "hint": "Think of a ship that sails into legend."
+}

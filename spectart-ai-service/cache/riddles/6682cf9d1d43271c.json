@@ -1,0 +1,11 @@
+{
+  "riddle": "I open wide to catch the breeze,  \nIn shadows cast, I whisper with ease.",
+  "answer": "folding fan",
+  "acceptable_answers": [
+    "hand fan",
+    "paper fan",
+    "decorative fan",
+    "foldable fan"
+  ],
+  "hint": "Listen closely; my secrets flutter in the dark."
+}

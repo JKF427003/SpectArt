@@ -1,0 +1,11 @@
+{
+  "riddle": "Torn and tattered, I once flew high, \nNow whispers of promises in the sky.",
+  "answer": "tattered flag",
+  "acceptable_answers": [
+    "ragged banner",
+    "worn standard",
+    "frayed ensign",
+    "damaged pennant"
+  ],
+  "hint": "Look for signs of a vow lost to the cold."
+}

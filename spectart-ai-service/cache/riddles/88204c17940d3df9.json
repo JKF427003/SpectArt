@@ -1,0 +1,11 @@
+{
+  "riddle": "I guard the entrance, fierce and bold,\\ But speak a word, and my tale's retold.",
+  "answer": "lion statue",
+  "acceptable_answers": [
+    "guardian lion",
+    "stone lion",
+    "foo dog",
+    "shishi"
+  ],
+  "hint": "I stand watch over sacred places."
+}

@@ -1,0 +1,10 @@
+{
+  "riddle": "I sing without a voice at sea,  \nA melody of glass, haunting me.",
+  "answer": "ghost ship",
+  "acceptable_answers": [
+    "phantom vessel",
+    "lost ship",
+    "specter boat"
+  ],
+  "hint": "Look for something that drifts without a crew."
+}

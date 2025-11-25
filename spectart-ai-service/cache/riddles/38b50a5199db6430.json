@@ -1,0 +1,11 @@
+{
+  "riddle": "Once a symbol of grace, now dulled by time's trace,  \nWhat once held the finest, now whispers of disgrace?",
+  "answer": "goblet",
+  "acceptable_answers": [
+    "chalice",
+    "cup",
+    "vessel",
+    "beaker"
+  ],
+  "hint": "It once celebrated victories, now it mourns lost glory."
+}

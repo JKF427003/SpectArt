@@ -1,0 +1,10 @@
+{
+  "riddle": "With a painted face, I dance in fright,  \nHiding the truth in shadows of night.",
+  "answer": "mask",
+  "acceptable_answers": [
+    "disguise",
+    "face covering",
+    "masquerade"
+  ],
+  "hint": "I can hide your identity and change your persona."
+}

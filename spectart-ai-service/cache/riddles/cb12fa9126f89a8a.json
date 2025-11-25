@@ -1,0 +1,10 @@
+{
+  "riddle": "In shadows I sway, a glow in the night,  \nAmong many I stand, the one shining bright.",
+  "answer": "central lantern",
+  "acceptable_answers": [
+    "main lantern",
+    "focus lantern",
+    "highlight lantern"
+  ],
+  "hint": "Look for the one that stands out in the dark."
+}

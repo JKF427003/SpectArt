@@ -1,0 +1,10 @@
+{
+  "riddle": "In shadows, I play a silent tune,  \nFragile whispers of a lost fortune.",
+  "answer": "glass violin",
+  "acceptable_answers": [
+    "crystal fiddle",
+    "fragile instrument",
+    "transparent stringed instrument"
+  ],
+  "hint": "Listen closely to the echoes of the past."
+}

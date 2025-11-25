@@ -1,0 +1,11 @@
+{
+  "riddle": "I wear a face, yet show no grace,  \nA vow once made, now lost in space.",
+  "answer": "broken promise",
+  "acceptable_answers": [
+    "false promise",
+    "unkept promise",
+    "failed vow",
+    "shattered oath"
+  ],
+  "hint": "Look for what remains when words fade away."
+}

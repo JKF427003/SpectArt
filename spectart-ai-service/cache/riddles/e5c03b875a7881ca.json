@@ -1,0 +1,11 @@
+{
+  "riddle": "Time stands still in rusted embrace, \nA promise lost in winter's trace.",
+  "answer": "broken watch",
+  "acceptable_answers": [
+    "stopped clock",
+    "frozen time",
+    "failed timepiece",
+    "damaged watch"
+  ],
+  "hint": "This object no longer keeps secrets of the hour."
+}

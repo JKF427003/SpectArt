@@ -1,0 +1,10 @@
+{
+  "riddle": "I sing without a voice, yet echo through the night, \nA vessel of lost dreams, hidden from the light.",
+  "answer": "ghost ship",
+  "acceptable_answers": [
+    "phantom vessel",
+    "haunted ship",
+    "abandoned boat"
+  ],
+  "hint": "Think of a ship that sailed but never docked."
+}

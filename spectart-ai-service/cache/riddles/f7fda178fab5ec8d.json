@@ -1,0 +1,10 @@
+{
+  "riddle": "In the night I stand so still,\nGuarding secrets with great skill.",
+  "answer": "guardian lion",
+  "acceptable_answers": [
+    "lion statue",
+    "stone lion",
+    "guardian statue"
+  ],
+  "hint": "I protect more than just tea from the dark."
+}

@@ -1,0 +1,11 @@
+{
+  "riddle": "In battle I stand, a guardian of might,  \nWith a tower of strength, I blend with the night.",
+  "answer": "warrior helmet",
+  "acceptable_answers": [
+    "battle headgear",
+    "combat helmet",
+    "fighter's helm",
+    "armored headpiece"
+  ],
+  "hint": "Look to the shadows of ancient defenses."
+}

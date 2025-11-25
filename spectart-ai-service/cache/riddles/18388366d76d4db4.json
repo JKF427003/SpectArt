@@ -1,0 +1,11 @@
+{
+  "riddle": "I sit still and make no sound,  \nYet I call to you when I'm found.",
+  "answer": "temple bell",
+  "acceptable_answers": [
+    "ceramic bell",
+    "gong",
+    "chime",
+    "ringing bowl"
+  ],
+  "hint": "Listen closely, even silence speaks."
+}

@@ -1,0 +1,10 @@
+{
+  "riddle": "Once bright and bold, now torn and worn,\\nA vow once made, now forlorn.",
+  "answer": "tattered flag",
+  "acceptable_answers": [
+    "damaged banner",
+    "worn standard",
+    "frayed ensign"
+  ],
+  "hint": "It symbolizes a promise lost to time."
+}

@@ -1,0 +1,11 @@
+{
+  "riddle": "I hang high, though I am not shy, \nIn silence I chime, beneath the night sky.",
+  "answer": "temple bell",
+  "acceptable_answers": [
+    "bell",
+    "gong",
+    "chime",
+    "toll"
+  ],
+  "hint": "Listen closely, for I resonate in the dark."
+}

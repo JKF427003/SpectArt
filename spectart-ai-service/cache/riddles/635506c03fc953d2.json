@@ -1,0 +1,11 @@
+{
+  "riddle": "I unfold with a whisper, yet silence I keep, \nIn the shadows of night, my secrets do seep.",
+  "answer": "folding fan",
+  "acceptable_answers": [
+    "hand fan",
+    "paper fan",
+    "decorative fan",
+    "foldable fan"
+  ],
+  "hint": "I bring warmth in the dark, yet cool the air you breathe."
+}

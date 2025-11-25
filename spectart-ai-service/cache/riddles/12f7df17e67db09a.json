@@ -1,0 +1,10 @@
+{
+  "riddle": "I was once whole, now I'm broken,  \nA silent face with tales unspoken.",
+  "answer": "lost ship",
+  "acceptable_answers": [
+    "sunken vessel",
+    "abandoned boat",
+    "forgotten craft"
+  ],
+  "hint": "Look to the depths of the ocean for the answer."
+}

@@ -1,0 +1,10 @@
+{
+  "riddle": "I hold your meal with grace, \nYet I'm empty without my embrace.",
+  "answer": "bowl",
+  "acceptable_answers": [
+    "dish",
+    "container",
+    "receptacle"
+  ],
+  "hint": "I carry sustenance, but I am not alive."
+}

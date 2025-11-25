@@ -1,0 +1,11 @@
+{
+  "riddle": "In shadows I arise, with stories to brew, \nA vessel of warmth, yet I’m not quite new.",
+  "answer": "teapot",
+  "acceptable_answers": [
+    "kettle",
+    "tea pot",
+    "brew vessel",
+    "ceramic pitcher"
+  ],
+  "hint": "I hold warmth yet cast a mysterious shadow."
+}

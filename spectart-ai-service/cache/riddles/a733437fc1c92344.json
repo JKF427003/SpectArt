@@ -1,0 +1,11 @@
+{
+  "riddle": "I ring without a voice, yet call you near,  \nA silence broken by the sound you hear.",
+  "answer": "bell",
+  "acceptable_answers": [
+    "toll",
+    "chime",
+    "gong",
+    "peal"
+  ],
+  "hint": "Listen closely, for the echoes reveal."
+}

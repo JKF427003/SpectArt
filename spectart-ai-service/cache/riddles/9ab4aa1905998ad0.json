@@ -1,0 +1,11 @@
+{
+  "riddle": "Torn and tattered, I sway in the breeze, \nA ghost of a journey, lost on the seas.",
+  "answer": "forgotten flag",
+  "acceptable_answers": [
+    "abandoned banner",
+    "lost ensign",
+    "worn standard",
+    "faded pennant"
+  ],
+  "hint": "I once waved proudly but now whisper of loss."
+}

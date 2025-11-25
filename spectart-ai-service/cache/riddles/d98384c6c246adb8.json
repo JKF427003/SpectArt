@@ -1,0 +1,10 @@
+{
+  "riddle": "Tattered wings that once did soar,  \nNow whisper tales of yore.",
+  "answer": "tattered banner",
+  "acceptable_answers": [
+    "torn flag",
+    "frayed pennant",
+    "worn standard"
+  ],
+  "hint": "Look for remnants of a bygone era."
+}

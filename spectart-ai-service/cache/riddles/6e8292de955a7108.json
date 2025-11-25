@@ -1,0 +1,11 @@
+{
+  "riddle": "I shine in elegance, once bright and fair,  \nYet time's cruel touch leaves me unaware.",
+  "answer": "tarnished silver",
+  "acceptable_answers": [
+    "oxidized metal",
+    "dull silver",
+    "aged goblet",
+    "darkened cup"
+  ],
+  "hint": "Reflect on what time does to treasures."
+}

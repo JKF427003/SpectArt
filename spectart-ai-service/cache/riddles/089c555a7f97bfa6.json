@@ -1,0 +1,11 @@
+{
+  "riddle": "I once kept time in hands so fair, \nNow I’m lost in rust, a silent stare.",
+  "answer": "forgotten timepiece",
+  "acceptable_answers": [
+    "abandoned watch",
+    "lost clock",
+    "rusty timekeeper",
+    "neglected stopwatch"
+  ],
+  "hint": "Consider what time leaves behind."
+}

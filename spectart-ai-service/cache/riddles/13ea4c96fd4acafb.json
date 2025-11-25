@@ -1,0 +1,10 @@
+{
+  "riddle": "I guard the brave with my metallic face,  \nIn battles fought, I find my place.",
+  "answer": "helmet",
+  "acceptable_answers": [
+    "headgear",
+    "armor",
+    "protection"
+  ],
+  "hint": "I shield the mind and thoughts of warriors."
+}

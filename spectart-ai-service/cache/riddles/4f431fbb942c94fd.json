@@ -1,0 +1,11 @@
+{
+  "riddle": "In a world of myth, I stand tall,  \nGuarding tales of fire and thrall.",
+  "answer": "dragon statue",
+  "acceptable_answers": [
+    "serpent figure",
+    "mythical beast",
+    "fire dragon",
+    "legendary creature"
+  ],
+  "hint": "I watch over ancient stories in silence."
+}

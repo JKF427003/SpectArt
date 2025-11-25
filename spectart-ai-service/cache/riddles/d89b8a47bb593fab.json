@@ -1,0 +1,12 @@
+{
+  "riddle": "In shadows I sway, with brilliance I glow,\\nOne among many, the brightest to show.",
+  "answer": "lantern",
+  "acceptable_answers": [
+    "light",
+    "lamp",
+    "beacon",
+    "glow",
+    "illumination"
+  ],
+  "hint": "Look closely at the center for the true light."
+}

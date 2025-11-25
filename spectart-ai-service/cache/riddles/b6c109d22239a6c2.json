@@ -1,0 +1,11 @@
+{
+  "riddle": "I have keys but open no locks, / I have space but no room to box.",
+  "answer": "piano",
+  "acceptable_answers": [
+    "keyboard",
+    "musical instrument",
+    "grand piano",
+    "upright piano"
+  ],
+  "hint": "Listen closely to the haunting melodies."
+}

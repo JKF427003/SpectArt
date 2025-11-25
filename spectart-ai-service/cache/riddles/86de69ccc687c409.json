@@ -1,0 +1,11 @@
+{
+  "riddle": "Draped in colors, I tell a tale,  \nOf culture and grace, where whispers prevail.",
+  "answer": "hanbok dress",
+  "acceptable_answers": [
+    "traditional dress",
+    "korean attire",
+    "folk costume",
+    "cultural garment"
+  ],
+  "hint": "Listen closely to the stories woven into my fabric."
+}

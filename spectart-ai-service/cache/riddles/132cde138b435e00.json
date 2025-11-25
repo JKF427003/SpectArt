@@ -1,0 +1,11 @@
+{
+  "riddle": "I guard the entrance, fierce and bold,  \nWith my stone gaze, secrets unfold.",
+  "answer": "lion statue",
+  "acceptable_answers": [
+    "guardian lion",
+    "stone lion",
+    "foo dog",
+    "shishi"
+  ],
+  "hint": "I am often found where stories begin."
+}

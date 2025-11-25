@@ -1,0 +1,11 @@
+{
+  "riddle": "In shadows I dwell, a story to tell, \nAncient and wise, what am I? Can you tell?",
+  "answer": "scroll",
+  "acceptable_answers": [
+    "parchment",
+    "manuscript",
+    "document",
+    "text"
+  ],
+  "hint": "I hold secrets of the past, unfurl my wisdom."
+}

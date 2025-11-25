@@ -1,0 +1,11 @@
+{
+  "riddle": "In silence I sing, though I have no voice,  \nA promise once made, now left to choice.",
+  "answer": "broken vow",
+  "acceptable_answers": [
+    "broken promise",
+    "failed oath",
+    "shattered pledge",
+    "unkept vow"
+  ],
+  "hint": "Think of commitments lost to time."
+}

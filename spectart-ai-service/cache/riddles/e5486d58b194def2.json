@@ -1,0 +1,10 @@
+{
+  "riddle": "I ring without a sound, yet my echo is profound. What am I?",
+  "answer": "temple bell",
+  "acceptable_answers": [
+    "sacred bell",
+    "ritual bell",
+    "ceremonial bell"
+  ],
+  "hint": "Listen closely; my presence is felt, not heard."
+}

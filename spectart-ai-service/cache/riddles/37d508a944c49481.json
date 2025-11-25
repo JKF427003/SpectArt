@@ -1,0 +1,11 @@
+{
+  "riddle": "I gleam with promise, but time reveals,  \nA hollow echo of hopes that conceal.",
+  "answer": "forgotten vow",
+  "acceptable_answers": [
+    "broken promise",
+    "unkept promise",
+    "failed oath",
+    "lost pledge"
+  ],
+  "hint": "What once sparkled now holds shadows."
+}

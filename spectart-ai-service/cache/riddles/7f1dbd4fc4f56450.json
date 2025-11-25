@@ -1,0 +1,11 @@
+{
+  "riddle": "In shadows I dwell, a beacon so bright,  \nI guide through the dark, a flicker of light.",
+  "answer": "lantern",
+  "acceptable_answers": [
+    "light",
+    "lamp",
+    "beacon",
+    "torch"
+  ],
+  "hint": "I illuminate the way in a world of dimness."
+}

@@ -1,0 +1,11 @@
+{
+  "riddle": "Tattered whispers of a vow,  \nLost in shadows, fading now.",
+  "answer": "broken promise",
+  "acceptable_answers": [
+    "failed promise",
+    "unkept vow",
+    "shattered promise",
+    "forgotten pledge"
+  ],
+  "hint": "What once held meaning now lies in ruins."
+}

@@ -1,0 +1,11 @@
+{
+  "riddle": "I ring without a voice, \nIn silence, I rejoice.",
+  "answer": "gong",
+  "acceptable_answers": [
+    "bell",
+    "chime",
+    "toll",
+    "sound maker"
+  ],
+  "hint": "I celebrate by echoing in empty spaces."
+}

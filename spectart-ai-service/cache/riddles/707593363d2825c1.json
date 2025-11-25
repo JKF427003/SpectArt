@@ -1,0 +1,10 @@
+{
+  "riddle": "I sing without a voice, \nIn winter's chill, I rejoice.",
+  "answer": "glass violin",
+  "acceptable_answers": [
+    "crystal fiddle",
+    "translucent instrument",
+    "fragile strings"
+  ],
+  "hint": "Look for music where silence reigns."
+}

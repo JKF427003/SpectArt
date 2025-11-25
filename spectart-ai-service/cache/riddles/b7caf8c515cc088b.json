@@ -1,0 +1,11 @@
+{
+  "riddle": "I echo without a voice,  \nMy tale is told with silence.",
+  "answer": "ancient scroll",
+  "acceptable_answers": [
+    "parchment",
+    "manuscript",
+    "document",
+    "writing"
+  ],
+  "hint": "Look for stories waiting in the shadows."
+}

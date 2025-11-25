@@ -1,0 +1,11 @@
+{
+  "riddle": "In silence, I hold a feast, \nWith slender hands, my meal’s released.",
+  "answer": "chopsticks",
+  "acceptable_answers": [
+    "eating utensils",
+    "sticks",
+    "cooking tools",
+    "tableware"
+  ],
+  "hint": "I am often seen beside a bowl of grains."
+}

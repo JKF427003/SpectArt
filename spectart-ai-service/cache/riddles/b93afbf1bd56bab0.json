@@ -1,0 +1,11 @@
+{
+  "riddle": "In the daylight I flicker and sway,\\ A glow from within that can light up your day.",
+  "answer": "lantern",
+  "acceptable_answers": [
+    "light",
+    "lamp",
+    "beacon",
+    "torch"
+  ],
+  "hint": "I brighten the night, though I need no flame to shine."
+}

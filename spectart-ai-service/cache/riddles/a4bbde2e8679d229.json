@@ -1,0 +1,10 @@
+{
+  "riddle": "I guard the tales of battles fought,\nIn silent watch, my story's caught.",
+  "answer": "dragon",
+  "acceptable_answers": [
+    "serpent",
+    "beast",
+    "firebreather"
+  ],
+  "hint": "I am a creature of legend, often depicted in armor."
+}

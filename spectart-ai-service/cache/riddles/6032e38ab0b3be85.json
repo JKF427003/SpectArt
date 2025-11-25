@@ -1,0 +1,11 @@
+{
+  "riddle": "In the stillness, I await the sound, \nWith a gentle touch, my voice is found.",
+  "answer": "gong",
+  "acceptable_answers": [
+    "bell",
+    "chime",
+    "toll",
+    "resonator"
+  ],
+  "hint": "I bring echoes to life with a single strike."
+}

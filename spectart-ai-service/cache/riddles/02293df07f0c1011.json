@@ -1,0 +1,11 @@
+{
+  "riddle": "I guard the entrance, strong and wide,\nWhat stands between you and the inside?",
+  "answer": "palace gate",
+  "acceptable_answers": [
+    "gate",
+    "entrance",
+    "portal",
+    "threshold"
+  ],
+  "hint": "I am the boundary between the outside and the royal inner sanctum."
+}

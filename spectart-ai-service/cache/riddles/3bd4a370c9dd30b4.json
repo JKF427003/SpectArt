@@ -1,0 +1,11 @@
+{
+  "riddle": "In shadows cast by silver's gleam,\nA lost composer, a forgotten dream.",
+  "answer": "echo of a melody",
+  "acceptable_answers": [
+    "musical echo",
+    "lost tune",
+    "faded song",
+    "melodic whisper"
+  ],
+  "hint": "Listen closely to the silence."
+}

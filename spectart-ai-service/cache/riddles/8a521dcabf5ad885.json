@@ -1,0 +1,10 @@
+{
+  "riddle": "I sing without a voice, silent yet profound,\nIn a shattered home, my echoes resound.",
+  "answer": "glass violin",
+  "acceptable_answers": [
+    "crystal fiddle",
+    "breakable instrument",
+    "fragile strings"
+  ],
+  "hint": "Listen closely to the whispers of the past."
+}

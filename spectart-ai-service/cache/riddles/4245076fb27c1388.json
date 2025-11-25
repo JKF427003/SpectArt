@@ -1,0 +1,10 @@
+{
+  "riddle": "I hide my face in colors bright, \nYet hold a secret in the night.",
+  "answer": "mask",
+  "acceptable_answers": [
+    "disguise",
+    "face covering",
+    "masquerade"
+  ],
+  "hint": "What you wear to conceal, not reveal."
+}

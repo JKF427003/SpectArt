@@ -1,0 +1,11 @@
+{
+  "riddle": "I wear a face of stone, cracked and cold,  \nA vow once whispered, now left untold.",
+  "answer": "broken promise",
+  "acceptable_answers": [
+    "unkept vow",
+    "failed promise",
+    "betrayed trust",
+    "shattered pledge"
+  ],
+  "hint": "Look for something that reflects unfulfilled intentions."
+}

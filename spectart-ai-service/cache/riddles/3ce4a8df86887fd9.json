@@ -1,0 +1,11 @@
+{
+  "riddle": "I hold your meal with grace and might,  \nA pair that dances in the night.",
+  "answer": "chopsticks",
+  "acceptable_answers": [
+    "sticks",
+    "utensils",
+    "dining tools",
+    "cutlery"
+  ],
+  "hint": "Look to the pair that lifts with ease."
+}

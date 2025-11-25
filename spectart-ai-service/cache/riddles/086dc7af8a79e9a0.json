@@ -1,0 +1,11 @@
+{
+  "riddle": "I light up the night, though I’m not a flame, \nHanging high, I whisper a name.",
+  "answer": "lantern",
+  "acceptable_answers": [
+    "light",
+    "lamp",
+    "glow",
+    "beacon"
+  ],
+  "hint": "Think of something that brightens the dark without burning."
+}

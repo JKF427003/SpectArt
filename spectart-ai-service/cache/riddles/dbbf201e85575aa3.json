@@ -1,0 +1,11 @@
+{
+  "riddle": "I am crafted from silence, yet I sing with grace,  \nIn a house of echoes, I take my place.",
+  "answer": "glass violin",
+  "acceptable_answers": [
+    "crystal fiddle",
+    "transparent instrument",
+    "fragile stradivari",
+    "ethereal violin"
+  ],
+  "hint": "Listen closely; my music is a whisper of the past."
+}

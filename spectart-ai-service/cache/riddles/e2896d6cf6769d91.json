@@ -1,0 +1,11 @@
+{
+  "riddle": "I hold the grain that fuels the night, \nWith sticks I dance, a tempting sight.",
+  "answer": "rice bowl",
+  "acceptable_answers": [
+    "grain holder",
+    "rice dish",
+    "food bowl",
+    "bowl of rice"
+  ],
+  "hint": "Look for what nourishes in a silent feast."
+}

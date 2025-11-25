@@ -1,0 +1,11 @@
+{
+  "riddle": "I protect in battle, yet I sit so still,  \nA guardian of glory, with a fearsome thrill.",
+  "answer": "warrior helmet",
+  "acceptable_answers": [
+    "battle headgear",
+    "fighter's helm",
+    "armor helmet",
+    "combat hat"
+  ],
+  "hint": "I hold the strength of a thousand battles."
+}

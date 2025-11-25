@@ -1,0 +1,10 @@
+{
+  "riddle": "I shelter from the rain, yet I'm not a roof,  \nIn shadows I dance, revealing the truth.",
+  "answer": "parasol",
+  "acceptable_answers": [
+    "umbrella",
+    "shade",
+    "cover"
+  ],
+  "hint": "I bring light to dark nights, but only when held high."
+}

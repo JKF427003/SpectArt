@@ -1,0 +1,11 @@
+{
+  "riddle": "I guard the brave with a metallic sheen,  \nIn battles fought, I've often been seen.",
+  "answer": "warrior helmet",
+  "acceptable_answers": [
+    "battle helm",
+    "combat headgear",
+    "warhead",
+    "armored cap"
+  ],
+  "hint": "Look for protection, where courage meets clamor."
+}

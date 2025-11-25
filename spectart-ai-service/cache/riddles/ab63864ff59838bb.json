@@ -1,0 +1,10 @@
+{
+  "riddle": "I ring without a voice, in silence I resound,  \nIn temples and in towers, my echoes can be found.",
+  "answer": "gong",
+  "acceptable_answers": [
+    "bell",
+    "chime",
+    "toll"
+  ],
+  "hint": "Listen closely to the vibrations of the past."
+}

@@ -1,0 +1,11 @@
+{
+  "riddle": "In shadows I gleam, a relic of old,  \nOnce held the finest, now secrets I'm told.",
+  "answer": "goblet",
+  "acceptable_answers": [
+    "cup",
+    "chalice",
+    "vessel",
+    "drinking vessel"
+  ],
+  "hint": "I once served the nobility, now I linger in memory."
+}

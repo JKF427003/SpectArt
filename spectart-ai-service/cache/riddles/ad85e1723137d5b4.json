@@ -1,0 +1,11 @@
+{
+  "riddle": "I echo the heartbeat of the night,\\nIn shadows I dwell, shrouded from light.",
+  "answer": "drum",
+  "acceptable_answers": [
+    "bongo",
+    "cajon",
+    "djembe",
+    "percussion instrument"
+  ],
+  "hint": "I resonate with rhythm but remain silent until struck."
+}

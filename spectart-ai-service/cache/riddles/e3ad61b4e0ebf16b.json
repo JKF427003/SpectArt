@@ -1,0 +1,11 @@
+{
+  "riddle": "In shadows I stand, a tale to unfold,  \nA guardian of secrets, both timid and bold.",
+  "answer": "ancient armor",
+  "acceptable_answers": [
+    "warrior suit",
+    "armor",
+    "battle gear",
+    "knight's attire"
+  ],
+  "hint": "I once protected a hero in a world long past."
+}

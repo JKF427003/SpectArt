@@ -1,0 +1,10 @@
+{
+  "riddle": "I hide behind a face of stone,  \nA vow unspoken, yet well-known.",
+  "answer": "broken promise",
+  "acceptable_answers": [
+    "unkept promise",
+    "failed vow",
+    "abandoned pledge"
+  ],
+  "hint": "Look beyond the surface to find the truth."
+}

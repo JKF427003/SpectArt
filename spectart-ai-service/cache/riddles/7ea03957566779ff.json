@@ -1,0 +1,11 @@
+{
+  "riddle": "I wear a face, yet cannot speak,  \nIn fractured silence, I hold the weak.",
+  "answer": "mask",
+  "acceptable_answers": [
+    "disguise",
+    "facade",
+    "cover",
+    "guise"
+  ],
+  "hint": "Look beyond the surface to find the truth."
+}

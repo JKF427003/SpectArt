@@ -1,0 +1,11 @@
+{
+  "riddle": "I hold grains of white with care, \nA pair of sticks, my love to share.",
+  "answer": "rice bowl and chopsticks",
+  "acceptable_answers": [
+    "bowl and sticks",
+    "rice dish",
+    "chopstick set",
+    "sushi tools"
+  ],
+  "hint": "Think of a meal that brings cultures together."
+}

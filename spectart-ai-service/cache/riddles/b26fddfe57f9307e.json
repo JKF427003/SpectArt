@@ -1,0 +1,11 @@
+{
+  "riddle": "I echo in the night, a heartbeat's sound,\\nWith a skin that's taut, my rhythm is found.",
+  "answer": "drum",
+  "acceptable_answers": [
+    "percussion instrument",
+    "beat maker",
+    "timpani",
+    "bongo"
+  ],
+  "hint": "I am often found in ceremonies beneath a sheltering canopy."
+}

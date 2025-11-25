@@ -1,0 +1,11 @@
+{
+  "riddle": "I open wide to shield from sun,  \nA colorful dance when day is done.",
+  "answer": "parasol",
+  "acceptable_answers": [
+    "sunshade",
+    "umbrella",
+    "shade",
+    "canopy"
+  ],
+  "hint": "I am often found in gardens or temples."
+}

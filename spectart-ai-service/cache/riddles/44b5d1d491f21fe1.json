@@ -1,0 +1,10 @@
+{
+  "riddle": "I guard the secrets of the deep,\nYet in plain sight, I silently weep.",
+  "answer": "lost ship",
+  "acceptable_answers": [
+    "abandoned vessel",
+    "sunken boat",
+    "forgotten craft"
+  ],
+  "hint": "Look for a tale of a journey that ended in silence."
+}

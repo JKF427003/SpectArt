@@ -1,0 +1,11 @@
+{
+  "riddle": "In silence, my strings once sang,  \nNow in shadows, my memories hang.",
+  "answer": "broken instrument",
+  "acceptable_answers": [
+    "shattered fiddle",
+    "damaged violin",
+    "fractured bow",
+    "ruined stringed instrument"
+  ],
+  "hint": "Reflect on what remains when music fades."
+}

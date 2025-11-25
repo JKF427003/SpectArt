@@ -1,0 +1,11 @@
+{
+  "riddle": "Time stands still in a whispering glow, \nWhat once ticked now lies low.",
+  "answer": "rusted pocket watch",
+  "acceptable_answers": [
+    "timepiece",
+    "watch",
+    "clock",
+    "chronometer"
+  ],
+  "hint": "It once measured moments now lost to time."
+}

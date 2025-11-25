@@ -1,0 +1,10 @@
+{
+  "riddle": "In the shadows I stand, fierce and bold,  \nGuarding treasures of stories untold.",
+  "answer": "dragon",
+  "acceptable_answers": [
+    "serpent",
+    "beast",
+    "fire-breather"
+  ],
+  "hint": "I am a mythical creature often found in legends."
+}

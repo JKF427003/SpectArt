@@ -1,0 +1,11 @@
+{
+  "riddle": "I stand tall with layers in sight,  \nA sacred place that reaches the light.",
+  "answer": "pagoda tower",
+  "acceptable_answers": [
+    "tower",
+    "temple",
+    "steeple",
+    "edifice"
+  ],
+  "hint": "I often hold secrets of the past."
+}

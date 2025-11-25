@@ -1,0 +1,11 @@
+{
+  "riddle": "I hold the past in my embrace, \nWords of wisdom, time can't erase.",
+  "answer": "ancient scroll",
+  "acceptable_answers": [
+    "scroll",
+    "parchment",
+    "manuscript",
+    "script"
+  ],
+  "hint": "I carry stories from long ago."
+}

@@ -1,0 +1,11 @@
+{
+  "riddle": "I stand tall yet I'm not a man,  \nWith layers of stories, I span.",
+  "answer": "pagoda",
+  "acceptable_answers": [
+    "tower",
+    "temple",
+    "stupa",
+    "structure"
+  ],
+  "hint": "Look for a tower that tells tales of the past."
+}

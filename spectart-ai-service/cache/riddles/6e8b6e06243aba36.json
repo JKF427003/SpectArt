@@ -1,0 +1,10 @@
+{
+  "riddle": "I hang in silence, until struck with might, \nMy voice echoes softly in the still of night.",
+  "answer": "gong",
+  "acceptable_answers": [
+    "bell",
+    "chime",
+    "toll"
+  ],
+  "hint": "I awaken the stillness with my resonant sound."
+}

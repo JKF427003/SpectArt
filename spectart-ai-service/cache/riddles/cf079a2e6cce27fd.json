@@ -1,0 +1,11 @@
+{
+  "riddle": "Time whispers softly, yet it fades,  \nIn shadows of the past, silence invades.",
+  "answer": "forgotten timepiece",
+  "acceptable_answers": [
+    "rusty watch",
+    "old clock",
+    "antique timepiece",
+    "lost watch"
+  ],
+  "hint": "What once counted moments now counts dust."
+}

@@ -1,0 +1,10 @@
+{
+  "riddle": "I shield from sun's fierce glare,  \nYet hold a tale of battles rare.",
+  "answer": "parasol",
+  "acceptable_answers": [
+    "sunshade",
+    "umbrella",
+    "canopy"
+  ],
+  "hint": "Guarded by shadows, I protect the light."
+}

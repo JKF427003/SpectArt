@@ -1,0 +1,11 @@
+{
+  "riddle": "I echo through the night, a heart's steady beat, \nWith hands that dance, my rhythm's complete.",
+  "answer": "drum",
+  "acceptable_answers": [
+    "percussion",
+    "batter",
+    "timpani",
+    "bongos"
+  ],
+  "hint": "Listen closely, my voice is a secret keeper."
+}

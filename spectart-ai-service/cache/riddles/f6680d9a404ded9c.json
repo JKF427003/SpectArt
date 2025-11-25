@@ -1,0 +1,11 @@
+{
+  "riddle": "Time's keeper, silent and worn,\\nA melody lost, forever forlorn.",
+  "answer": "forgotten timepiece",
+  "acceptable_answers": [
+    "rusty watch",
+    "old pocket watch",
+    "timekeeper",
+    "antique watch"
+  ],
+  "hint": "Think of what once marked the passage of time."
+}

@@ -1,0 +1,11 @@
+{
+  "riddle": "I hold a memory of what once was bright, \nNow dull and forgotten, lost to the night.",
+  "answer": "broken promise",
+  "acceptable_answers": [
+    "unkept promise",
+    "failed vow",
+    "shattered trust",
+    "betrayed word"
+  ],
+  "hint": "Consider what can fade but still remains."
+}

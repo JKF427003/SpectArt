@@ -1,0 +1,11 @@
+{
+  "riddle": "I guard the brave, a battle’s sound, \nWith echoes of war, my strength is found.",
+  "answer": "war drum",
+  "acceptable_answers": [
+    "battle drum",
+    "military drum",
+    "marching drum",
+    "drum"
+  ],
+  "hint": "Listen closely; my rhythm holds the key."
+}

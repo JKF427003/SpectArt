@@ -1,0 +1,11 @@
+{
+  "riddle": "I open wide to catch the breeze,  \nIn silent nights, I hide with ease.",
+  "answer": "folding fan",
+  "acceptable_answers": [
+    "hand fan",
+    "paper fan",
+    "foldable fan",
+    "decorative fan"
+  ],
+  "hint": "I bring comfort while keeping secrets."
+}

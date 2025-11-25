@@ -1,0 +1,11 @@
+{
+  "riddle": "I stand tall in layers, reaching for the sky,  \nWith stories of ink and brush, I quietly lie.",
+  "answer": "pagoda tower",
+  "acceptable_answers": [
+    "tower",
+    "temple",
+    "structure",
+    "building"
+  ],
+  "hint": "Think of a structure that tells tales through art."
+}

@@ -1,0 +1,11 @@
+{
+  "riddle": "I dance on paper, yet I never move, \nMy strokes tell stories that time cannot prove.",
+  "answer": "calligraphy",
+  "acceptable_answers": [
+    "handwriting",
+    "script",
+    "penmanship",
+    "lettering"
+  ],
+  "hint": "I bring words to life without a sound."
+}

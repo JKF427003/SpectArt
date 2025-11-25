@@ -1,0 +1,11 @@
+{
+  "riddle": "I once measured time's gentle grace,  \nNow I tick in a forgotten place.",
+  "answer": "rusted pocket watch",
+  "acceptable_answers": [
+    "broken timepiece",
+    "old watch",
+    "defunct clock",
+    "forgotten horologe"
+  ],
+  "hint": "Think of what time leaves behind."
+}

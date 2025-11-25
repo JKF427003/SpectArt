@@ -1,0 +1,11 @@
+{
+  "riddle": "Time slips through my fingers, yet I stand still,  \nA reminder of moments that life cannot fulfill.",
+  "answer": "rusted pocket watch",
+  "acceptable_answers": [
+    "timepiece",
+    "watch",
+    "chronometer",
+    "clock"
+  ],
+  "hint": "I once captured time, now I capture dust."
+}

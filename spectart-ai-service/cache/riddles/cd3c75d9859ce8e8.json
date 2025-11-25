@@ -1,0 +1,10 @@
+{
+  "riddle": "I sing without a voice, a journey lost at sea,  \nA fragile echo of a symphony, what could I be?",
+  "answer": "glass violin",
+  "acceptable_answers": [
+    "crystal fiddle",
+    "transparent instrument",
+    "airy violin"
+  ],
+  "hint": "Think of music tempered by fragility."
+}

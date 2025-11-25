@@ -1,0 +1,11 @@
+{
+  "riddle": "I wear a skin of metal, yet I am not alive,  \nIn battle I stand, where warriors strive.",
+  "answer": "armor",
+  "acceptable_answers": [
+    "protection",
+    "shield",
+    "defense",
+    "bodyguard"
+  ],
+  "hint": "I guard the brave but am not a living being."
+}

@@ -1,0 +1,11 @@
+{
+  "riddle": "Guarded by shadows, I stand tall,  \nAncient whispers echo through my hall.",
+  "answer": "palace gate",
+  "acceptable_answers": [
+    "castle door",
+    "royal entrance",
+    "fortress gate",
+    "guarded archway"
+  ],
+  "hint": "I protect secrets of the past at night."
+}

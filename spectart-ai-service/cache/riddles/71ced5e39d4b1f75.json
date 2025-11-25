@@ -1,0 +1,10 @@
+{
+  "riddle": "I bear the words of past and pain,\\nIn ash I linger, lost in the rain.",
+  "answer": "ruined letter",
+  "acceptable_answers": [
+    "burnt note",
+    "scorched message",
+    "charred paper"
+  ],
+  "hint": "What remains when memories burn away?"
+}

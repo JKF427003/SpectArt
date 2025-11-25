@@ -1,0 +1,10 @@
+{
+  "riddle": "I once held a face, now I’m just stone,\nA noble’s visage, forever alone.",
+  "answer": "cracked mask",
+  "acceptable_answers": [
+    "broken mask",
+    "shattered mask",
+    "damaged mask"
+  ],
+  "hint": "Look for remnants of identity hidden in decay."
+}

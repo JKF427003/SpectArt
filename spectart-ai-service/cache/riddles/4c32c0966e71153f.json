@@ -1,0 +1,11 @@
+{
+  "riddle": "Once a symbol of grace, now takes on a rusted face,  \nWhat holds memories of a house that fell from its place?",
+  "answer": "goblet",
+  "acceptable_answers": [
+    "cup",
+    "chalice",
+    "drinking vessel",
+    "beaker"
+  ],
+  "hint": "Think of a vessel that gathers more than just liquid."
+}

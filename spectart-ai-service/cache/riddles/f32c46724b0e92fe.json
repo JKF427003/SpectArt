@@ -1,0 +1,11 @@
+{
+  "riddle": "I wear a face, yet speak no truth,  \nIn winter's grasp, I hide my youth.",
+  "answer": "mask",
+  "acceptable_answers": [
+    "disguise",
+    "veil",
+    "face covering",
+    "hood"
+  ],
+  "hint": "Think of something that conceals one's identity."
+}

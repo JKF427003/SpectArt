@@ -1,0 +1,11 @@
+{
+  "riddle": "I once held secrets, now I'm just ash,  \nIn whispers of the past, I fade and clash.",
+  "answer": "burnt paper",
+  "acceptable_answers": [
+    "charred paper",
+    "scorched letter",
+    "damaged document",
+    "singed note"
+  ],
+  "hint": "I carry stories that have turned to smoke."
+}

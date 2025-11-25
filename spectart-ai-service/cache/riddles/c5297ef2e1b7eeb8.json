@@ -1,0 +1,11 @@
+{
+  "riddle": "I bear words once spoken, now lost in the flame,  \nA vow turned to ashes, who’s left to blame?",
+  "answer": "broken promise",
+  "acceptable_answers": [
+    "unkept vow",
+    "failed promise",
+    "abandoned oath",
+    "broken vow"
+  ],
+  "hint": "What was once a commitment now lies in ruins."
+}

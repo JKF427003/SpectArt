@@ -1,0 +1,11 @@
+{
+  "riddle": "In silence I speak, a tale of the past, \nA ghostly note, from shadows cast.",
+  "answer": "lost composition",
+  "acceptable_answers": [
+    "forgotten melody",
+    "vanished score",
+    "abandoned tune",
+    "hidden symphony"
+  ],
+  "hint": "I echo the whispers of a composer long gone."
+}

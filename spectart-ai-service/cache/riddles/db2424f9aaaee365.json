@@ -1,0 +1,11 @@
+{
+  "riddle": "Once vibrant, now a shadow's remain,  \nA pledge in tatters, lost in the grain.",
+  "answer": "tattered flag",
+  "acceptable_answers": [
+    "worn banner",
+    "frayed standard",
+    "damaged ensign",
+    "faded pennant"
+  ],
+  "hint": "It symbolizes a broken promise."
+}

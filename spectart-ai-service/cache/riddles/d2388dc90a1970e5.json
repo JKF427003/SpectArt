@@ -1,0 +1,11 @@
+{
+  "riddle": "I shield you from the rain, yet hold no weight;  In shadows I linger, a shelter from fate.",
+  "answer": "parasol",
+  "acceptable_answers": [
+    "umbrella",
+    "shade",
+    "canopy",
+    "shelter"
+  ],
+  "hint": "Think of something that protects you while you stand still."
+}

@@ -1,0 +1,11 @@
+{
+  "riddle": "I hold the grains of life, so white and round,  \nWith sticks to lift me, harmony is found.",
+  "answer": "rice bowl",
+  "acceptable_answers": [
+    "bowl of rice",
+    "rice dish",
+    "grain holder",
+    "food bowl"
+  ],
+  "hint": "Listen closely to the rhythm of your meal."
+}

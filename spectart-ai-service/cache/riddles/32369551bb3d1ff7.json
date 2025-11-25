@@ -1,0 +1,11 @@
+{
+  "riddle": "I echo through the night, yet I hold no voice,  \nIn silence, I call you, to make your choice.",
+  "answer": "bell",
+  "acceptable_answers": [
+    "chime",
+    "toll",
+    "ring",
+    "gong"
+  ],
+  "hint": "Listen closely; the past may guide your ears."
+}

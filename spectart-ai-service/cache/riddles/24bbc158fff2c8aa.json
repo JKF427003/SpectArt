@@ -1,0 +1,11 @@
+{
+  "riddle": "Time has slipped through the rusted hands,\\nEchoes linger in forgotten lands.",
+  "answer": "timepiece",
+  "acceptable_answers": [
+    "clock",
+    "watch",
+    "timer",
+    "chronometer"
+  ],
+  "hint": "It once counted moments before they faded."
+}

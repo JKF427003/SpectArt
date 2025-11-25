@@ -1,0 +1,11 @@
+{
+  "riddle": "Time stands still in my embrace,  \nA journey lost without a trace.",
+  "answer": "rusted pocket watch",
+  "acceptable_answers": [
+    "timepiece",
+    "watch",
+    "chronometer",
+    "tick-tock"
+  ],
+  "hint": "I once counted moments, now I'm frozen."
+}

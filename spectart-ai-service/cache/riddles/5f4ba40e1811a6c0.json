@@ -1,0 +1,11 @@
+{
+  "riddle": "In shadows deep, I gleam with grace,  \nA vessel of whispers from a forgotten place.",
+  "answer": "goblet",
+  "acceptable_answers": [
+    "chalice",
+    "cup",
+    "vessel",
+    "tumbler"
+  ],
+  "hint": "I once hosted the finest of feasts."
+}

@@ -1,0 +1,11 @@
+{
+  "riddle": "Time once ticked, now still in rust,  \nA melody lost in forgotten dust.",
+  "answer": "pocket watch",
+  "acceptable_answers": [
+    "timepiece",
+    "watch",
+    "time keeper",
+    "chronometer"
+  ],
+  "hint": "Think of a device that keeps time but has fallen silent."
+}

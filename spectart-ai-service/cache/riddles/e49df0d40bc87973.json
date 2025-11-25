@@ -1,0 +1,11 @@
+{
+  "riddle": "Once bright and bold, now lost to time,  \nWhat holds a whisper of a house in its chime?",
+  "answer": "silver goblet",
+  "acceptable_answers": [
+    "tarnished cup",
+    "metal vessel",
+    "dull chalice",
+    "faded goblet"
+  ],
+  "hint": "Look for the remnants of grandeur in decay."
+}

@@ -1,0 +1,11 @@
+{
+  "riddle": "I shield from sun's bright rays,  \nIn colors that amaze.",
+  "answer": "parasol",
+  "acceptable_answers": [
+    "umbrella",
+    "sunshade",
+    "canopy",
+    "shade"
+  ],
+  "hint": "I offer cover but rarely touch the ground."
+}
